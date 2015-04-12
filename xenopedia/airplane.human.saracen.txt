@@ -1,0 +1,7 @@
+<index>airplane.human.saracen</index>
+<name>X-44 Saracen Interceptor</name>
+<cname></cname>
+<type>Xenonaut Aircraft</type>
+<ctype></ctype>
+<desc>The X-44 Saracen is an interceptor built specifically for dogfighting the most manuverable alien craft. It is fast, heavily armoured and extremely agile, employing dual cannons to rip apart its foes at close range.&#10;&#10;. Within it lies the mountings for the twin cannon hardpoints, the extensive avionics and the imposing E-77 Alenium Impulsion reactor that provides the vast reserves of power required to make a sixty-ton craft dance like a ballerina at twice the speed of sound.&#10;&#10;The resulting craft is an ugly, squat beast capable of destroying almost anything placed in front of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one.</desc>
+<cdesc></cdesc>

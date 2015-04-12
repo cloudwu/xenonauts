@@ -1,0 +1,7 @@
+<index>airplane.alien.lightscout</index>
+<name>Light Scout UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>My team has finished preliminary studies on the recovered UFO hull, we have designated the &quot;Light Scout&quot;. It is very small compared to some of the orbital signals we have detected; barely more than a probe. &#10;&#10;It is approximately a dozen metres from nose to tail, comprising a &quot;saucer&quot; section and two &quot;wings&quot; filled with what we believe to be sensor equipment. Two small thrusters mounted on the back of the saucer provide propulsion. The craft does not appear to have a reactor of any kind, instead seeming to draw power from rechargeable capacitors in the wings. It is almost certainly not capable of independent operation, instead it would need to be launched from a &quot;home&quot; vessel at the start of each mission (and return there afterwards).&#10;&#10;It has poor combat performance for such an advanced vessel; it is no match for one of our Condor interceptors. The main weapon is an energy cannon mounted beneath the saucer, which has a relatively slow fire speed and a shorter range than our Sidewinder missiles. The armoured shell is remarkably strong and impressively heat-resistant given it is only a few millimetres thick, but is too thin to offer much protection against modern munitions. Enjoy the gentle introduction while it lasts, Commander - I doubt the larger ships will be such easy prey.</desc>
+<cdesc></cdesc>

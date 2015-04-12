@@ -1,0 +1,7 @@
+<index>airplane.alien.carrier</index>
+<name>Carrier UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The Carrier is a very large UFO, crewed by a similarly large number of extraterrestrials. As the name implies, it carries a pair of Interceptor escort craft that launch when the mothership is threatened.&#10;&#10;The configuration of the Carrier is reminiscent of the Landing Ship, in essence little more than a (very) durable cargo / transport ship. Though the hangar bays and launch tracks fill considerable space, the Carrier still has the capacity to carry a sizeable terror team or enough equipment to construct a large facility on the surface of our planet. The lower levels contain cargo space, crew compartments and three possible entry points, whilst the important systems are located on the upper decks - the craft's command room, fusion reactor and hyperdrive.&#10;&#10;The two electromagnetic launch tracks that run almost the full length of the vessel are used to release the escort craft as required. They are a remarkable piece of engineering, capable of accelerating a large fighter up to several times the speed of sound in less then fifty metres.</desc>
+<cdesc></cdesc>

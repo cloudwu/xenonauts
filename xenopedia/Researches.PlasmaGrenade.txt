@@ -1,0 +1,7 @@
+<index>Researches.PlasmaGrenade</index>
+<name>Plasma Grenade</name>
+<cname></cname>
+<type>Xenonaut Aircraft</type>
+<ctype></ctype>
+<desc>The MiG-32 is a</desc>
+<cdesc></cdesc>

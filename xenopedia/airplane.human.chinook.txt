@@ -1,0 +1,7 @@
+<index>airplane.human.chinook</index>
+<name>CH-48 Charlie</name>
+<cname></cname>
+<type>Xenonaut Aircraft</type>
+<ctype></ctype>
+<desc>The CH-48 Charlie is a twin-rotor transport helicopter based on the reliable CH-47 Chinook. It serves the Xenonauts as a dropship, ferrying up to eight men and their equipment to combat zones almost anywhere in the world. &#10;&#10;The Charlie has been heavily modified for Xenonaut use. The operational range of the craft has been vastly increased, allowing it to reach almost any destination in the world on a single tank of fuel (it can also be refuelled mid-air if the local government are feeling sufficiently cooperative). It has also been fitted with heavier armour, as our strike teams are expected to &quot;hot drop&quot; into combat areas and may come under fire immediately - losing our dropship to ground fire during landing / the subsequent mission would hardly be ideal. Though necessary, this has unfortunately reduced the carrying capacity down to eight men.&#10;&#10;The Charlie is slow and defenceless, making it easy prey for alien craft. Your strike team is likely to take casualties if their dropship is shot down, so it may be worth adding interceptors to the Charlie's squadron if there is any UFO activity in the target area.</desc>
+<cdesc></cdesc>

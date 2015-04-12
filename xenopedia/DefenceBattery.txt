@@ -1,0 +1,7 @@
+<index>DefenceBattery</index>
+<name>Defence Battery</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>The Defence Battery is a point-defence structure that provides your base with protection against UFOs. In the event that your base is attacked by enemy forces, your defence batteries will each take a shot at the attacking craft with a 50% hit chance before the ground assault begins. &#10;&#10;Several defence batteries may be able to destroy an attacking UFO before it lands, averting the attack completely - but inflicting any damage on the UFO at all will reduce the size of the alien ground forces appropriately (to a minimum of 50%). These batteries upgrade automatically as you research more advanced weapon technology, so will not become obsolete over time.</desc>
+<cdesc></cdesc>

@@ -1,0 +1,7 @@
+<index>Researches.AlienAlloys</index>
+<name>Alien Alloys</name>
+<cname></cname>
+<type>Alien Technology</type>
+<ctype></ctype>
+<desc>Alien technology is founded on a variety of exotic materials, every one of which possesses remarkable properties. We have identified materials with tensile strength and heat resistance an order of magnitude greater than anything previous known, as well as those with more exotic properties such as room-temperature superconductivity.&#10;&#10;Almost all of them are ultra-advanced ceramics with a chemical structure as alien as the extraterrestrials themselves. Though we have yet to encounter any unknown fundamental element in these materials, we have little idea how they generate their extraordinary powers or how they could be manufactured. It is the difference between coal and diamond - fundamentally the same stuff, but radically different in practice. &#10;&#10;Given their exceptional heat resistance, the most obvious military application of these alloys would be in personal battlefield armour. Unfortunately, they are so effective at dissipating heat that nothing in our laboratory can generate enough to melt them - making fabrication of a plate of armour (or anything else) little more than a pipe dream. Though still effectively useless, we are harvesting these alloys from recovered artefacts where possible. The aliens must have the means to shape these materials, so further study of their technology may allow us to do the same.</desc>
+<cdesc></cdesc>

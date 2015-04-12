@@ -1,0 +1,7 @@
+<index>airplane.alien.strikecruiser</index>
+<name>Strike Cruiser UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The Strike Cruiser is a large ground-attack vessel. Though clearly a derivative of the standard Cruiser UFO design, it fulfils a role more akin to that of the Bomber.&#10;&#10;Despite its vast size we believe the Strike Cruiser is still a single-seater craft, the pilot interred somewhere in the forward area of the saucer. All non-essential systems have been stripped away and replaced with extra firepower, the biggest addition being the two enormous coilguns mounted on the front of the craft. A lattice of heatsinks connect each one to the &quot;wings&quot; of the craft, which themselves contain powerful long-range targeting scanners.&#10;&#10;These coilguns appear designed to attack static targets from great range and pose little threat to our aircraft, making the Strike Cruiser a weak combatant. Each projectile is highly explosive and capable of flattening a building in a single hit; given that the saucer section of each craft can carry at least thirty of them it is imperative that these UFOs are shot down before they inflict too much damage on the nations that fund us. Predictably, the explosive payload of the Strike Cruiser makes it highly unlikely a successful interception will leave much in the way of recoverable wreckage.</desc>
+<cdesc></cdesc>

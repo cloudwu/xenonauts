@@ -1,0 +1,7 @@
+<index>weapon.heavyballistics</index>
+<name>Heavy Ballistics</name>
+<cname></cname>
+<type>Xenonaut Weapons</type>
+<ctype></ctype>
+<desc>The Xenonauts are trained to use two main heavy weapons, the Machinegun and Rocket Launcher. Both of these suffer from recoil and a severe accuracy penalty if the user is not stationary when they attempt to fire the weapon. They are also, quite literally, heavy weapons - they will limit the amount of armour and equipment a soldier can carry into battle before being encumbered.&#10;&#10;The Machinegun is a weapon that fires bursts of powerful ammunition at the target. It is not particularly accurate, but has a long range and can be very effective at suppressing the enemy. It has significant recoil, making it most accurate in the hands of our stronger soldiers. Naturally, it is possible to inflict heavy damage on our enemies with this weapon (particularly if they have been caught out in the open or are in a large group) but it should be considered primarily as a support weapon that will pin them in place.&#10;&#10;Perhaps unsurprisingly, the Rocket Launcher fires rockets at our enemies. Each one is heavy and must be carried into battle individually, but is effective for both killing enemies and flattening battlefield terrain. However, be aware that killing units with explosives will not leave much behind that is recoverable.</desc>
+<cdesc></cdesc>

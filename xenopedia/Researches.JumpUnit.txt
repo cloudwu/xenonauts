@@ -1,0 +1,7 @@
+<index>Researches.JumpUnit</index>
+<name>Jump Unit</name>
+<cname></cname>
+<type>Alien Technology</type>
+<ctype></ctype>
+<desc>The &quot;jump unit&quot; is the informal name we have given to the collection of propulsion and flight-control systems that work together to allow small alien units vertical movements. The fundamentals are not particularly complex; the British-built Harrier jump-jet demonstrated them more than a decade ago. Scaling them down to the point where they can be integrated into personal armour, on the other hand, is.</desc>
+<cdesc></cdesc>

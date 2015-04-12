@@ -1,0 +1,7 @@
+<index>Storeroom</index>
+<name>Storeroom</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>The Storeroom of a base houses all manufactured or recovered equipment at the base. This is not required for items that are available in unlimited quantities - so aircraft weapons / ammunition or ballistic weapons for your soldiers will still be available without a Storeroom. However, the base cannot receive any manufactured soldier weapons or armour until it has storage space for them, nor collect any Alenium / alien alloys.&#10;&#10;A single Storeroom is capable of holding an unlimited quantity of items.</desc>
+<cdesc></cdesc>

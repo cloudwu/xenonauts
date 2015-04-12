@@ -1,0 +1,7 @@
+<index>LivingQuarters</index>
+<name>Living Quarters</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>Living Quarters provide housing for up to 35 personnel - either Soldiers, Scientists or Engineers (any combination of the three personnel types can be housed in the same structure). Living space and any appropriate work space must be in place before new staff can be hired, so ensure your bases have enough living quarters to accommodate your expansion plans.</desc>
+<cdesc></cdesc>

@@ -1,0 +1,7 @@
+<index>MedicalCenter</index>
+<name>Medical Center</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>The Medical Center structure provides Xenonauts with state-of-the-art medical care for any injuries they sustain in battle, halving the recovery times of any injuries inflicted on your soldiers. &#10;&#10;Building additional Medical Centers beyond the first has no extra effect on healing speed.</desc>
+<cdesc></cdesc>

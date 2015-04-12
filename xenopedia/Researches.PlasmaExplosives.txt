@@ -1,0 +1,7 @@
+<index>Researches.PlasmaExplosives</index>
+<name>Plasma Explosives</name>
+<cname></cname>
+<type>Xenonaut Weapons</type>
+<ctype></ctype>
+<desc>The Alien Reactor can extract more useful energy from the same lump of Alenium than a less advanced device can. The technology of the Alien Reactor itself may not be directly applicable to our existing Alenium explosives, but the principles it operates on are.&#10;&#10;While low-grade Alenium is a reasonably destructive explosive in its own right, this is a rather crude way of using the energy. Using it to generate superheated plasma is a more efficient way of damaging a target than just dumping the energy from the explosive into the air around it (which has a high thermal resistance). As such, we have developed a miniaturised plasma generator that can be used to rapidly convert all of the warhead energy into an expanding sphere of plasma. This pushes the air around the point of detonation aside, rather than transmitting energy through it; losing less energy to thermal resistance increases the destructive energy of the explosive.&#10;&#10;This has allowed us to design a Plasma Grenade and Plasma Rocket to replace the existing Alenium explosives and a Plasma Charge to replace our existing C4 explosives. These Plasma explosives are also available to our men in effectively unlimited quantities, so we have withdrawn the obsolete weapons and replaced them accordingly (in order to minimise disruption to combat operations, the only difference between them is increased damage).</desc>
+<cdesc></cdesc>

@@ -1,0 +1,7 @@
+<index>AV.AUTOCANNON</index>
+<name>Autocannon</name>
+<cname></cname>
+<type>Xenonaut Aircraft Weapons</type>
+<ctype></ctype>
+<desc>The Autocannon is a variant of the 20mm M61 Vulcan rotary cannon. It is a short-range, high rate-of-fire weapon best suited to dealing with agile craft that are difficult to hit with missiles.&#10;&#10;Our F-17 Condor aircraft have this weapon fitted in their integrated cannon bay by default. It will inflict good sustained damage on a target, but it obviously requires the pilot to get close enough to use it - leaving the Condor vulnerable to return fire. If you plan to engage a hostile craft using this weapon, try to avoid the firing arcs of its defensive weapons. Approaching the target from the side or behind is much more likely to result in a successful kill than a head-on attack.</desc>
+<cdesc></cdesc>

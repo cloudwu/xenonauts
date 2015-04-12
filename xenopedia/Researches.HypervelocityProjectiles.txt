@@ -1,0 +1,7 @@
+<index>Researches.HypervelocityProjectiles</index>
+<name>Hypervelocity Projectiles</name>
+<cname></cname>
+<type>Xenonaut Aircraft</type>
+<ctype></ctype>
+<desc>The MiG-32 is a</desc>
+<cdesc></cdesc>

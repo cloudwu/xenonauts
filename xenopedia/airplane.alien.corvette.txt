@@ -1,0 +1,7 @@
+<index>airplane.alien.corvette</index>
+<name>Corvette UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The Corvette is a medium-sized UFO. It is the first genuine alien warship we have encountered, exchanging the delicate &quot;wing&quot; surfaces used by smaller UFOs as sensor amplifiers for sturdier hull construction and more powerful weapons.&#10;&#10;The armour plating on this craft is the same stuff as on the lighter UFOs but applied in greater quantities, adding enormous survivability at the cost of greatly increased weight. The large engines mounted in the rear of the vessel are enough to keep it airborne, but it is slow and ponderous compared to the lighter craft that preceded it (and therefore vulnerable to heavy torpedoes). The power requirements of these engines necessitate both a second power core and an improved method of power transmission - the hull electronics are much more advanced than previously, so we have extracted them for further study. &#10;&#10;The primary armament of the Corvette is a forward-firing heavy plasma cannon. This has a slow rate of fire, but generates a powerful explosive projectile that is just as deadly when used to bomb ground targets as it is when used against aerial opponents. These projectiles travel relatively slowly and you may find that our more agile interceptors are able to avoid them with an evasive roll maneuver, but they will inflict heavy damage on anything they hit. Be very careful about flying your interceptors into its firing arc. </desc>
+<cdesc></cdesc>

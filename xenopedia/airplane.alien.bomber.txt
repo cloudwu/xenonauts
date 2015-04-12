@@ -1,0 +1,7 @@
+<index>airplane.alien.bomber</index>
+<name>Bomber UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The extraterrestrial Bomber is a medium-sized UFO specialised into a ground attack role. Though easy prey for our interceptors, it can quickly rain death and destruction on a funding nation and sour our relations accordingly.&#10;&#10;It employs two linked electromagnetic torpedo launch tracks to do so, forming a semi-circular structure on the rear half of the saucer. Each torpedo is powerful enough to sink a ship and we believe the Bomber capable of launching a pair every six seconds, making casualties from any strafing run a virtual certainty. Thankfully, they are unguided and travel too slowly to be of any practical use against aerial targets, making the Bomber vulnerable in combat.&#10;&#10;The entire craft has been designed around these weapons. The thin wings jutting out from either side of the saucer are likely intended to stabilise the craft during an attack run, while the saucer itself is largely hollow and presumably mostly used for ammunition storage (the Harridan pilot, craft reactor and avionics are all crammed into a small area at the front). We actually believe that this is the reason why little of these UFOs survives an interception, as the remaining torpedoes tend to detonate either immediately or on impact with the ground. In short, the Bomber is an underwhelming combatant, but one that must be dealt with quickly.</desc>
+<cdesc></cdesc>

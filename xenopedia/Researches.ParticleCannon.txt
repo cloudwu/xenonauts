@@ -1,0 +1,7 @@
+<index>Researches.ParticleCannon</index>
+<name>Particle Cannon</name>
+<cname></cname>
+<type>Alien Technology</type>
+<ctype></ctype>
+<desc>The MiG-32 is a</desc>
+<cdesc></cdesc>

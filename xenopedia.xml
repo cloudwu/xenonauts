@@ -1,0 +1,1376 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s96" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s103" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s104">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s107" ss:Parent="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s109" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s112">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s115">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s116">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="136" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s67">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="204">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienInvasion.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienfleet</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienInvasion.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienInvasion.desc</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s74"><Data ss:Type="String">airplane.human.mig31</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$airplane.human.mig31.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/mig32</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$airplane.human.mig31.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.mig31.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienAlloys.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienalloys</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienAlloys.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAlloys.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienPlasmaPistol.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienplasmapistol</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienPlasmaPistol.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">$Researches.AlienPlasmaPistol.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienBiology.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienbiology</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienBiology.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBiology.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Alenium</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.Alenium.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/alenium</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.Alenium.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.Alenium.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienPlasmaRifle.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienplasmarifle</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienPlasmaRifle.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienPlasmaRifle.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienAlloyFabrication.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienalloyfabrication</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienAlloyFabrication.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAlloyFabrication.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienPlasmaTechnology.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienplasmatechnology</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienPlasmaTechnology.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienPlasmaTechnology.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LaserWeaponry.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/laserweapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LaserWeaponry.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LaserWeaponry.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.RapidFireLasers</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireLasers.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/rapidfirelasers</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireLasers.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireLasers.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PulseLasers.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/heavylasers</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PulseLasers.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PulseLasers.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.wolf</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.wolf.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/wolfarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.wolf.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.wolf.desc</Data></Cell>
+   </Row>
+   <Row ss:Index="16" ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHeavyPlasmaRifle.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienheavyplasmarifle</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHeavyPlasmaRifle.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHeavyPlasmaRifle.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="242.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.StunWeapons.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/stunweapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.StunWeapons.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.StunWeapons.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">$Researches.ToxinGrenade.name</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">xenopediaimages/toxingrenade</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">$Researches.ToxinGrenade.type</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">$Researches.ToxinGrenade.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienElectronics.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienelectronics</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienElectronics.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienElectronics.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.corsair.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/corsair</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.corsair.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.corsair.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.SCIMITAR.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/scimitar</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.SCIMITAR.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VH</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.SCIMITAR.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ElectroshockGrenade.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/shockgrenade</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ElectroshockGrenade.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ElectroshockGrenade.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.buzzard</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.buzzard.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/buzzardarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.buzzard.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.buzzard.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienPlasmaCannon.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienplasmacannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienPlasmaCannon.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienPlasmaCannon.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSniperPlasma.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/aliensniperplasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSniperPlasma.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSniperPlasma.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBaseFacilities.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienbase</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBaseFacilities.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBaseFacilities.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.BaseUpgrade.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/baseupgrade</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.BaseUpgrade.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.BaseUpgrade.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWeaponry.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasmaweapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWeaponry.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWeaponry.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.DirectionalThrusterArray.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/directionalthrusterarray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.DirectionalThrusterArray.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.DirectionalThrusterArray.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.shrike.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/shrike</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.shrike.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.shrike.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienReactor.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienreactor</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienReactor.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienReactor.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAlloyHardening.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienarmourplating</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAlloyHardening.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAlloyHardening.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.predator</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.predator.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/predatorarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.predator.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.predator.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSingularityCore.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/aliensingularitycore</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSingularityCore.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienSingularityCore.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.sentinel</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.sentinel.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/sentinelarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.sentinel.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.sentinel.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGWeaponry.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/magweapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGWeaponry.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGWeaponry.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.fury</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.fury.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/fury</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.fury.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.fury.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SingularityTorpedo.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/singularitytorpedo</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SingularityTorpedo.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SingularityTorpedo.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.marauder.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/marauder</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.marauder.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.marauder.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HYPERION.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/hyperion</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HYPERION.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VH</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HYPERION.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAntigravityGenerator.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/antigravitygenerator</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAntigravityGenerator.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAntigravityGenerator.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienCommunicationArray.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/aliencommsarray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienCommunicationArray.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienCommunicationArray.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s82">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionWarheads.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/fusionwarheads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionWarheads.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionWarheads.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AssaultShield.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/assaultshield</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AssaultShield.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AssaultShield.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.QuantumCryptologyCentre.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/quantumcryptology</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.QuantumCryptologyCentre.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.QuantumCryptologyCentre.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.valkyrie.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/valkyrie</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.valkyrie.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.valkyrie.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFirePlasmas.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/rapidfireplasmas</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFirePlasmas.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFirePlasmas.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaBolt.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasmabolt</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaBolt.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VHW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaBolt.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWarheads.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasmawarheads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWarheads.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaWarheads.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienFusionReactor.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienfusionreactor</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienFusionReactor.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienFusionReactor.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHyperdrive.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienhyperdrive</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHyperdrive.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienHyperdrive.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireMAGs.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/rapidfiremag</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireMAGs.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.RapidFireMAGs.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGrailgun.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/magrailgun</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGrailgun.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VHW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MAGrailgun.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HUNTER.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/hunter</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HUNTER.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VH</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$VEHICLE.HUNTER.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.jackal</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.jackal.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/jackalarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.jackal.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.jackal.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumExplosives.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/aleniumexplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumExplosives.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumExplosives.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumWarheads.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/aleniumwarhead</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumWarheads.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AleniumWarheads.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaExplosives.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/plasmaexplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaExplosives.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PlasmaExplosives.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionExplosives.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/fusionexplosives</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionExplosives.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.FusionExplosives.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HunterMissiles.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/huntermissiles</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HunterMissiles.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">VHW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HunterMissiles.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBattleRifle.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienbattlerifle</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBattleRifle.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienBattleRifle.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/caesanautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanAutopsy.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/sebillianautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianAutopsy.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AndronDisassembly.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/androndisassembly</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AndronDisassembly.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AndronDisassembly.desc</Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/wraithautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithAutopsy.desc</Data></Cell>
+    <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/harridanautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanAutopsy.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/reaperautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperAutopsy.desc</Data></Cell>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s93"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PraetorAutopsy.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/praetorautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PraetorAutopsy.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PraetorAutopsy.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LightDroneWreckage.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/lightdroneautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LightDroneWreckage.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.LightDroneWreckage.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MediumDroneWreckage.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/mediumdroneautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MediumDroneWreckage.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.MediumDroneWreckage.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HeavyDroneWreckage.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/heavydroneautopsy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HeavyDroneWreckage.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HeavyDroneWreckage.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanVivisection.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/analysis_caesan</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanVivisection.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.CaesanVivisection.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianVivisection.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/analysis_sebillian</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianVivisection.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.SebillianVivisection.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s82">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithVivisection.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/analysis_wraith</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithVivisection.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.WraithVivisection.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanVivisection.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/analysis_harridan</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanVivisection.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.HarridanVivisection.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperVivisection.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/analysis_reaper</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperVivisection.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ReaperVivisection.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="204">
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienInterrogation.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/interrogation_soldier</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienInterrogation.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienInterrogation.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienOfficerInterrogation.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/interrogation_officer</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienOfficerInterrogation.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienOfficerInterrogation.desc</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.AlienLeaderInterrogation.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/interrogation_leader</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.AlienLeaderInterrogation.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienLeaderInterrogation.desc</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.PraetorInterrogation</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.PraetorInterrogation.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/interrogation_praetor</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.PraetorInterrogation.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.PraetorInterrogation.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$Researches.OperationEndgame.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOdreadnought</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$Researches.OperationEndgame.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.OperationEndgame.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">FinalMissionBriefing</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$FinalMissionBriefing.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/finalmission</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$FinalMissionBriefing.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$FinalMissionBriefing.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s90"/>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">airplane.alien.lightscout</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$airplane.alien.lightscout.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/UFOlightscout</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$airplane.alien.lightscout.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.lightscout.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">airplane.alien.scout</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">$airplane.alien.scout.name</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/UFOscout</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">$airplane.alien.scout.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.scout.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102" ss:StyleID="s100">
+    <Cell ss:StyleID="s103"><Data ss:Type="String">airplane.alien.corvette</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">$airplane.alien.corvette.name</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">xenopediaimages/UFOcorvette</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">$airplane.alien.corvette.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">$airplane.alien.corvette.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s100">
+    <Cell ss:StyleID="s103"><Data ss:Type="String">airplane.alien.landingship</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">$airplane.alien.landingship.name</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">xenopediaimages/UFOlandingship</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">$airplane.alien.landingship.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">$airplane.alien.landingship.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">airplane.alien.cruiser</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.cruiser.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOcruiser</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.cruiser.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.cruiser.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102" ss:StyleID="s85">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">airplane.alien.carrier</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.carrier.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOcarrier</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.carrier.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.carrier.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s85">
+    <Cell ss:StyleID="s107"><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.battleship.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFObattleship</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.battleship.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.battleship.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s100">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">airplane.alien.fighter</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">$airplane.alien.fighter.name</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">xenopediaimages/UFOfighter</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">$airplane.alien.fighter.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">$airplane.alien.fighter.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s100">
+    <Cell ss:StyleID="s109"><Data ss:Type="String">airplane.alien.heavyfighter</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">$airplane.alien.heavyfighter.name</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">xenopediaimages/UFOheavyfighter</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">$airplane.alien.heavyfighter.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">$airplane.alien.heavyfighter.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153" ss:StyleID="s85">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.interceptor.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOinterceptor</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.interceptor.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.interceptor.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153" ss:StyleID="s85">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.bomber.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFObomber</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.bomber.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.bomber.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s85">
+    <Cell ss:StyleID="s110"><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">$airplane.alien.strikecruiser.name</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOstrikecruiser</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">$airplane.alien.strikecruiser.type</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.alien.strikecruiser.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.f17</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.f17.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/f17</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.f17.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.f17.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.chinook.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/charlie</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.chinook.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$airplane.human.chinook.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.AUTOCANNON</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AUTOCANNON.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/autocannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AUTOCANNON.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AUTOCANNON.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.SIDEWINDER</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.SIDEWINDER.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/sidewinder</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.SIDEWINDER.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.SIDEWINDER.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">AV.AVALANCHE</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AVALANCHE.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/avalanche</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AVALANCHE.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$AV.AVALANCHE.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">weapon.ballistics</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.ballistics.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/ballisticweapons</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.ballistics.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.ballistics.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">weapon.heavyballistics</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.heavyballistics.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/heavyballistics</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.heavyballistics.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$weapon.heavyballistics.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">armour.basic</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.basic.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/basicarmour</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.basic.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$armour.basic.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="292.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">IcelandIncident</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$IcelandIncident.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/icelandincident</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$IcelandIncident.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$IcelandIncident.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ParticleBeam.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/singularitycannon</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ParticleBeam.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.ParticleBeam.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s85">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAssaultPlasma.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/alienassaultplasma</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAssaultPlasma.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Researches.AlienAssaultPlasma.desc</Data></Cell>
+    <Cell ss:StyleID="s111"/>
+    <Cell ss:StyleID="s111"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">DefenceBattery</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$DefenceBattery.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/defencebattery</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$DefenceBattery.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$DefenceBattery.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Garage</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Garage.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/garage</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Garage.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Garage.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Hangar</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Hangar.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/hangar</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Hangar.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Hangar.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Laboratory</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Laboratory.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/laboratory</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Laboratory.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Laboratory.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">LivingQuarters</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$LivingQuarters.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/livingquarters</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$LivingQuarters.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$LivingQuarters.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">MedicalCenter</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$MedicalCenter.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/medicalcenter</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$MedicalCenter.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$MedicalCenter.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">RadarArray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$RadarArray.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/radararray</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$RadarArray.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$RadarArray.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="51">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Storeroom</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Storeroom.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/storeroom</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Storeroom.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Storeroom.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Workshop</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Workshop.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/workshop</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Workshop.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Workshop.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AdvancedMedpack</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AdvancedMedpack.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AdvancedMedpack.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">$Researches.AdvancedMedpack.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienSensorArray</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AlienSensorArray.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienSensorArray.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">$Researches.AlienSensorArray.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.LIDARArray</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.LIDARArray.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.LIDARArray.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">$Researches.LIDARArray.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.JumpUnit.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.JumpUnit.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">$Researches.JumpUnit.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.ParticleCannon</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.ParticleCannon.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.ParticleCannon.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.ParticleCannon.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.PlasmaGrenade</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.PlasmaGrenade.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.PlasmaGrenade.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.PlasmaGrenade.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AleniumEnrichment</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AleniumEnrichment.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AleniumEnrichment.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AleniumEnrichment.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienAlloyProduction</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AlienAlloyProduction.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienAlloyProduction.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AlienAlloyProduction.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienKineticShield</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AlienKineticShield.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienKineticShield.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AlienKineticShield.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienSingularityGrenade</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AlienSingularityGrenade.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienSingularityGrenade.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AlienSingularityGrenade.desc</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.HyperdriveDisruptor</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.HyperdriveDisruptor.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.HyperdriveDisruptor.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"/>
+    <Cell ss:StyleID="s116"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.HypervelocityProjectiles</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.HypervelocityProjectiles.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.HypervelocityProjectiles.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.HypervelocityProjectiles.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">airplane.human.saracen</Data></Cell>
+    <Cell><Data ss:Type="String">$airplane.human.saracen.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/saracen</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$airplane.human.saracen.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$airplane.human.saracen.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">$Researches.AlienPowerSource.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienPowerSource.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AlienPowerSource.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
+    <Cell><Data ss:Type="String">$Researches.AlienGrenade.name</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/aliengrenade</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">$Researches.AlienGrenade.type</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">$Researches.AlienGrenade.desc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">VV.MACHINEGUN</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">$VV.MACHINEGUN.name</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">$VV.MACHINEGUN.type</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">VHW</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="String">$VV.MACHINEGUN.desc</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Epilogue</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Epilogue.name</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Epilogue.type</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">$Epilogue.desc</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>115</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>135</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

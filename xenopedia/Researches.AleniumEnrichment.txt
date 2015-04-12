@@ -1,0 +1,7 @@
+<index>Researches.AleniumEnrichment</index>
+<name>Alienium Enrichment</name>
+<cname></cname>
+<type>Xenonaut Aircraft</type>
+<ctype></ctype>
+<desc>The MiG-32 is a</desc>
+<cdesc></cdesc>

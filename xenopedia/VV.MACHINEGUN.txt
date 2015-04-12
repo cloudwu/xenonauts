@@ -1,0 +1,7 @@
+<index>VV.MACHINEGUN</index>
+<name>.30cal Machinegun</name>
+<cname></cname>
+<type>Xenonaut Vehicle Weapons</type>
+<ctype></ctype>
+<desc>The dual .30cal machineguns </desc>
+<cdesc></cdesc>

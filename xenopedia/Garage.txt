@@ -1,0 +1,7 @@
+<index>Garage</index>
+<name>Garage</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>As the name implies, the Garage houses any Xenonaut vehicles stationed at the base. Each garage will hold up to three vehicles and a free Garage slot is required before construction can even begin on a ground vehicle.</desc>
+<cdesc></cdesc>

@@ -1,0 +1,7 @@
+<index>Researches.HunterMissiles</index>
+<name>Hunter &quot;Viper&quot; Turret</name>
+<cname></cname>
+<type>Xenonaut Vehicle Weapons</type>
+<ctype></ctype>
+<desc>The &quot;Viper&quot; rocket rack is an alternate turret option for the Hunter scout car, substantially increasing the vehicle's firepower by replacing the dual .30cal machineguns with eight high-explosive rockets.&#10;&#10;These rockets are repurposed air-to-air missiles that lack much of a fragmentation effect, but will still inflict heavy incendiary damage across a large area. Though best suited to demolishing structures, they should still make short work of our weaker alien foes.  However, there are two major disadvantages to this - firstly, the rockets are so large that the Hunter can only carry eight of them into battle.  Secondly, explosives are a poor way to obtain recoverable alien technology. It is unlikely that we will be able to recover anything of value from the corpses of any enemies killed by these rockets.&#10;&#10;Nevertheless, there are many occasions where the loss of a few artefacts would be preferable to the loss of one or more of our soldiers. If you wish to equip a Hunter with the Viper, the upgraded turrets have already been made available in the Garage.</desc>
+<cdesc></cdesc>

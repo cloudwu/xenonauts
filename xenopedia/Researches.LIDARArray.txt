@@ -1,0 +1,7 @@
+<index>Researches.LIDARArray</index>
+<name>LIDAR Array</name>
+<cname></cname>
+<type>Xenonaut Weapons</type>
+<ctype></ctype>
+<desc>Description goes here.</desc>
+<cdesc></cdesc>

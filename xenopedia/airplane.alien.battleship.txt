@@ -1,0 +1,7 @@
+<index>airplane.alien.battleship</index>
+<name>Battleship UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The Battleship is an enormous alien UFO with a crew of elite alien soldiers. We believe it represents the largest UFO class in the alien fleet, matching the largest orbital signals we have been tracking almost exactly.&#10;&#10;It is a monstrous creation. Where other UFOs had armour barely an inch thick, this behemoth has a foot of hardened plating on its outer shell and is virtually impervious to conventional weapons. It can cleave through the air at the best part of three thousand kilometers an hour, despite weighing over a thousand tons, and possesses a fearsome long-range beam weapon that will carve apart buildings and ground targets as easily as it does our interceptors.&#10;&#10;The only conceivable way a vessel could be capable of any of these things, let alone all of them, is by utilising a power source an order of magnitude more powerful than anything yet seen. Make every effort to recover it intact, as we will be encountering these monsters in our skies with increasing frequency. Given the sheer firepower needed to bring down even one, we will either need to develop something capable of countering them or build more interceptors. A lot more.</desc>
+<cdesc></cdesc>

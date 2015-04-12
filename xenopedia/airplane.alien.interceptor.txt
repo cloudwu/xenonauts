@@ -1,0 +1,7 @@
+<index>airplane.alien.interceptor</index>
+<name>Interceptor UFO</name>
+<cname></cname>
+<type>UFOs</type>
+<ctype></ctype>
+<desc>The Interceptor appears to be the final incarnation of the alien air superiority fighter. Do not be fooled by its deceptively elegant appearance - this craft is far tougher than it seems, and every bit as deadly.&#10;&#10;The propulsion system extending from the rear of the saucer uses a type of pulse-detonation technology to reach speeds of up to 3,800kph and can use vectored thrust ports to change direction in the blink of an eye.  A miniaturised version of the immensely powerful fusion reactor sits in the central compartment, while a hardened shell of alien plating encases the vessel and grants frightening durability (whilst still reducing the overall weight of the armour relative to earlier designs). A trio of deadly rapid-firing plasma cannons and an enlarged &quot;missile&quot; tube in each wing complete the design, producing an exceptional dogfighter: fast, tough, agile and well-armed. &#10;&#10;It is both sobering and encouraging to remember that it is clearly designed as a spacecraft - while I dread to think how effective this craft must be in the cold interstellar vacuum, it suggests we may yet be able to build something to defeat it in the skies. </desc>
+<cdesc></cdesc>

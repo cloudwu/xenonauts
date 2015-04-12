@@ -1,0 +1,7 @@
+<index>armour.jackal</index>
+<name>Jackal Combat Armour</name>
+<cname></cname>
+<type>Xenonaut Armour</type>
+<ctype></ctype>
+<desc>The &quot;Jackal&quot; Combat Armour offers our soldiers extra battlefield protection at the cost of increased weight. It is not the ideal equipment for every situation, but in many cases the extra survivability could be the difference between life and death.&#10;&#10;Laboratory tests on captured alien plasma weapons have confirmed that traditional body armour is essentially worthless against energy projectiles, having been designed to resist ballistic impact rather than heat damage. However, testing a modified combat vest with heat-resistant rather than impact-resistant ceramic plates showed impressive results. The ceramics were able to dissipate enough of the heat to give the wearer a reasonable chance of survival, though they are still likely to suffer injuries in the process.&#10;&#10;While it provides an obvious boost to survivability, this armour is heavy and will limit the other equipment (such as ammunition or secondary weapons) a soldier can carry into battle. Armour also degrades rapidly under fire and will not withstand repeated hits, nor provide the wearer guaranteed protection - e.g. it hardly matters what armour a soldier is wearing if he is shot in the face. Nevertheless, it is still better than nothing and can be constructed in the workshop.</desc>
+<cdesc></cdesc>

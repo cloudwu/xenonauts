@@ -1,0 +1,7 @@
+<index>AV.AVALANCHE</index>
+<name>Avalanche Torpedo</name>
+<cname></cname>
+<type>Xenonaut Aircraft Weapons</type>
+<ctype></ctype>
+<desc>The Avalanche Torpedo is a heavy air-to-air missile with an extremely powerful warhead. Though it has a long range, it moves slowly and has a poor turn rate - meaning it is only really useful against large alien craft that are not able to evade it. It can only be fitted in Heavy missile slots.&#10;&#10;The Avalanche is essentially a subsonic anti-ship cruise missile repurposed for use against alien vessels. It can be fired from long range has an armour-penetrating warhead that should make it much more effective against more durable enemy craft, hopefully allowing interceptors equipped with them to fire and withdraw before coming into range of the enemy weapons. Be aware that the time required to obtain missile lock for this weapon is greater than on the lighter Sidewinder missile.&#10;</desc>
+<cdesc></cdesc>

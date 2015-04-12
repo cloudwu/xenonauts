@@ -1,0 +1,7 @@
+<index>AV.SIDEWINDER</index>
+<name>Sidewinder Missile</name>
+<cname></cname>
+<type>Xenonaut Aircraft Weapons</type>
+<ctype></ctype>
+<desc>The AIM-9 Sidewinder is a light air-to-air missile. It has a longer range and will inflict more damage than a burst from the Autocannon, but is a single-use weapon and can be avoided by the more agile enemy combatants. It can be fitted to both Light and Heavy missile hardpoints.&#10; &#10;The ability to inflict a large amount of damage relatively quickly make the Sidewinder valuable in a dogfight, as we believe it likely that alien weapons will be significantly more powerful at close range than our cannons. The Sidewinders will allow us to damage the craft before getting into range of their weapons, turning the tide of the battle in our favour. Using multiple interceptors in the same squadron may even allow us to destroy an alien craft in a barrage of Sidewinders without taking any damage ourselves. &#10;&#10;A Sidewinder cannot be fired until the interceptor has missile lock on the target - this requires keeping the target in range and in front of the interceptor for a couple of seconds. You should also be aware that these missiles are not infallible - it is perfectly plausible that alien craft may be nimble enough to avoid them. </desc>
+<cdesc></cdesc>

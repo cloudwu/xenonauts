@@ -1,0 +1,7 @@
+<index>Hangar</index>
+<name>Hangar</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>Each Hangar will house a single interceptor or dropshop; a free hangar bay is necessary before you are able to purchase or construct an additional aircraft.&#10;&#10;These structures are quick to construct and have relatively low upkeep, but the aircraft they house do not. Decommission any unnecessary aircraft quickly!</desc>
+<cdesc></cdesc>

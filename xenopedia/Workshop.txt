@@ -1,0 +1,7 @@
+<index>Workshop</index>
+<name>Workshop</name>
+<cname></cname>
+<type>Base Structures</type>
+<ctype></ctype>
+<desc>Workshops allow a base to construct aircraft, vehicles and battlefield equipment. Each Workshop will house up to 15 engineers, who require both living space and workshop space to be available before they can be recruited. Unlike Laboratories, Workshops are NOT networked - engineers in different bases cannot collaborate on projects.&#10;&#10;Engineers suffers diminishing returns when at work: the first engineer on a project works at 100% efficiency, the second at 99% efficiency, the third at 98% efficiency (and so forth). Finally, as workshops are expensive and have unusually high maintenance costs, consider your finances carefully before constructing one.</desc>
+<cdesc></cdesc>

@@ -1,0 +1,7 @@
+<index>Researches.AdvancedMedpack</index>
+<name>Advanced Medpack</name>
+<cname></cname>
+<type>Xenonaut Weapons</type>
+<ctype></ctype>
+<desc>Not needed.</desc>
+<cdesc></cdesc>

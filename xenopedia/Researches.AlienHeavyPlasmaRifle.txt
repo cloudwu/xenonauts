@@ -1,0 +1,7 @@
+<index>Researches.AlienHeavyPlasmaRifle</index>
+<name>Alien Heavy Plasma</name>
+<cname></cname>
+<type>Alien Weapons</type>
+<ctype></ctype>
+<desc>The alien Heavy Plasma is thirty-five inches in length and nearly five kilograms in weight. It inflicts no more damage than the standard alien Plasma Rifle, but has far better armour penetration. This comes at the cost of reduced range and the apparent loss of burst-fire capability.&#10;&#10;The main difference in construction between this weapon and the alien Plasma Rifle lies in the barrel. The Heavy Plasma has a stubbier, wide barrel that contains a plasma generation chamber twice the normal size but an electromagnetic coil only half the usual length. This makes the plasma projectile significantly more energetic (and more penetrative) than the equivalent from the Plasma Rifle, but also less stable. It begins to break apart almost immediately, giving it approximately half the operational range of an alien Plasma Rifle.&#10;&#10;However, it is a worringly effective weapon. Each shot is sufficiently powerful that a soldier wearing Jackal armour may as well be wearing nothing at all, which also makes it capable of destroying our Hunter scout car in just a few shots. Try to fight aliens equipped with this weapon at long range where possible.</desc>
+<cdesc></cdesc>
