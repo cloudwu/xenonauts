@@ -1,7 +1,7 @@
 <index>Storeroom</index>
 <name>Storeroom</name>
-<cname></cname>
+<cname>仓库</cname>
 <type>Base Structures</type>
-<ctype></ctype>
+<ctype>基地建筑物</ctype>
 <desc>The Storeroom of a base houses all manufactured or recovered equipment at the base. This is not required for items that are available in unlimited quantities - so aircraft weapons / ammunition or ballistic weapons for your soldiers will still be available without a Storeroom. However, the base cannot receive any manufactured soldier weapons or armour until it has storage space for them, nor collect any Alenium / alien alloys.&#10;&#10;A single Storeroom is capable of holding an unlimited quantity of items.</desc>
-<cdesc></cdesc>
+<cdesc>仓库存放着基地所有的制造设备和维护设备。无限量供应的物品不需要仓库——所以机载武器，弹药和士兵的弹道武器在不占用仓库的情况下就能使用。但是，如果仓库没有空余位置，基地就不能接收新的武器和装甲，也不能收集外星合金了。&#10;&#10;一个库房就能存放下所有的不限量物品。</cdesc>
