@@ -1,7 +1,7 @@
 <index>airplane.alien.cruiser</index>
 <name>Cruiser UFO</name>
-<cname></cname>
+<cname>UFO巡洋舰</cname>
 <type>UFOs</type>
-<ctype></ctype>
+<ctype>UFO舰队</ctype>
 <desc>The Cruiser is a large alien capital ship.  It is a versatile general-purpose warship capable of filling multiple roles, crewed by still more extraterrestrials than the Landing Ship (despite the latter being a dedicated transport ship).&#10;&#10;It consists of a two-level central saucer section containing the command room (upper floor) and a large cargo bay (lower floor), flanked by two &quot;wings&quot; that sweep forward on either side. The majority of the craft's support systems are housed in the wings, most notably the life support systems on the inside and the fine maneuvering thrusters on the exterior edge. The pressurised crew compartments contain both cargo space and the vessel's reactors, leaving space in the saucer for extra armour plate and the main weapon - a powerful plasma cannon, apparently scaled-up from the Corvette cannon. &#10;&#10;Interestingly, the protective armour plating has an uneven distribution. The upper section of the saucer protects the command room and has armour over twice as thick as that of the wings, making it highly resistant to incoming fire (one would imagine it also offers added protection for alien assault squads on the final approach to the designated terror site). That said, even the &quot;vulnerable&quot; wings are still extensively armoured - so expect the Cruiser to take quite a beating before it finally crashes.</desc>
-<cdesc></cdesc>
+<cdesc>巡洋舰是一艘大型的外星指挥船。这是一个多用途的战舰，能够适应多种角色，乘员要多于登陆舰（尽管字面意思上是专用的运输船）。&#10;&#10;它由一个两层的飞碟组成，其中包含控制室（上层）和一个大型货仓入口（下层），两侧的&quot;机翼&quot;蜿蜒向前。飞船的主要支援系统位于机翼，主要是内部的生命维持系统和外部纤细的机动推进器。加压后的乘员休息室内还包含了货物舱和机体引擎，其他的空间用于为飞碟安装更厚的护甲和主武器——一门强力的电浆炮，显然是护卫舰主炮的增强版。&#10;&#10;很有意思的是，防护用的护甲镀层有一种分配上的不均匀。上层用于控制室的护甲是机翼的两倍，这让它能抵御更多的炮火（这也可能是为了保护突击小队安全的抵达预定的袭击地点）。也就是说，甚至&quot;脆弱的&quot;机翼也大面积的安装了护甲——巡洋舰需要相当猛烈的炮火才能最终被击落。</cdesc>
