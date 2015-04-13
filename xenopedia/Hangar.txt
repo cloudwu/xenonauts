@@ -1,7 +1,7 @@
-<index>Hangar</index>
+﻿<index>Hangar</index>
 <name>Hangar</name>
-<cname></cname>
+<cname>机库</cname>
 <type>Base Structures</type>
-<ctype></ctype>
+<ctype>基地建筑物</ctype>
 <desc>Each Hangar will house a single interceptor or dropshop; a free hangar bay is necessary before you are able to purchase or construct an additional aircraft.&#10;&#10;These structures are quick to construct and have relatively low upkeep, but the aircraft they house do not. Decommission any unnecessary aircraft quickly!</desc>
-<cdesc></cdesc>
+<cdesc>每个机库可以停放一架拦截机或者作为飞机中转站；在购买或者建造新的飞行器之前，必须保证有一个空的机库（作为中转站的机库不是空闲机库）。&#10;&#10;机库建造时间很短，维护成本低，但是停放飞行器的花费较高。所以及时地让不必要的飞行器退役！</cdesc>

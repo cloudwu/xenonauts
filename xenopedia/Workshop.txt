@@ -1,7 +1,7 @@
-<index>Workshop</index>
+﻿<index>Workshop</index>
 <name>Workshop</name>
-<cname></cname>
+<cname>车间</cname>
 <type>Base Structures</type>
-<ctype></ctype>
+<ctype>基地建筑物</ctype>
 <desc>Workshops allow a base to construct aircraft, vehicles and battlefield equipment. Each Workshop will house up to 15 engineers, who require both living space and workshop space to be available before they can be recruited. Unlike Laboratories, Workshops are NOT networked - engineers in different bases cannot collaborate on projects.&#10;&#10;Engineers suffers diminishing returns when at work: the first engineer on a project works at 100% efficiency, the second at 99% efficiency, the third at 98% efficiency (and so forth). Finally, as workshops are expensive and have unusually high maintenance costs, consider your finances carefully before constructing one.</desc>
-<cdesc></cdesc>
+<cdesc>有了车间之后，基地就可以建造战斗机，运输工具和作战装备。每个车间可以部署15个工程师，要招募工程师，必须保证有充足的生活空间和工作空间。车间和实验室不同，车间没有联网——不同基地的工程师不能合作完成项目。&#10;&#10;多个工程师合作的时候收益递减：第一个工程师工作效率是100%，第二个是99%，第三个是98%，以此类推。注意，鉴于车间的造价高昂，维护成本高，所以在建造之前，要估量好你的资金。</cdesc>
