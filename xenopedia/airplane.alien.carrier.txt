@@ -1,7 +1,7 @@
 <index>airplane.alien.carrier</index>
 <name>Carrier UFO</name>
-<cname></cname>
+<cname>UFO运输机</cname>
 <type>UFOs</type>
-<ctype></ctype>
+<ctype>UFO舰队</ctype>
 <desc>The Carrier is a very large UFO, crewed by a similarly large number of extraterrestrials. As the name implies, it carries a pair of Interceptor escort craft that launch when the mothership is threatened.&#10;&#10;The configuration of the Carrier is reminiscent of the Landing Ship, in essence little more than a (very) durable cargo / transport ship. Though the hangar bays and launch tracks fill considerable space, the Carrier still has the capacity to carry a sizeable terror team or enough equipment to construct a large facility on the surface of our planet. The lower levels contain cargo space, crew compartments and three possible entry points, whilst the important systems are located on the upper decks - the craft's command room, fusion reactor and hyperdrive.&#10;&#10;The two electromagnetic launch tracks that run almost the full length of the vessel are used to release the escort craft as required. They are a remarkable piece of engineering, capable of accelerating a large fighter up to several times the speed of sound in less then fifty metres.</desc>
-<cdesc></cdesc>
+<cdesc>运输机是一艘非常大的UFO，乘员也是非常多的外星人。正如其名，当母舰遭受威胁的时候会派出成对的反拦截机。&#10;&#10;运输机的配置让人联想到登陆船, 本质上讲更像是一个（非常）坚固的货仓/运输船。尽管机库和发射仓占据了相当大的空间，但是运输机仍有空间运输颇具规模的军队或者足以在我们星球表面修建大型设施的设备。底层包含货物存放区、乘员休息室和三个入口，而重要的飞船系统位于顶部甲板——飞船控制室、核聚变反应炉和超光速引擎。&#10;&#10;两个几乎和机身等长的电磁发射轨道用于发射反拦截机。它们是卓越工程学的产物，能够在55米以内将大型飞船加速到几倍于音速的速度。</cdesc>
