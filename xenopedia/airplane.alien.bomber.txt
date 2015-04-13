@@ -1,7 +1,7 @@
 <index>airplane.alien.bomber</index>
 <name>Bomber UFO</name>
-<cname></cname>
+<cname>UFO轰炸机</cname>
 <type>UFOs</type>
-<ctype></ctype>
+<ctype>UFO舰队</ctype>
 <desc>The extraterrestrial Bomber is a medium-sized UFO specialised into a ground attack role. Though easy prey for our interceptors, it can quickly rain death and destruction on a funding nation and sour our relations accordingly.&#10;&#10;It employs two linked electromagnetic torpedo launch tracks to do so, forming a semi-circular structure on the rear half of the saucer. Each torpedo is powerful enough to sink a ship and we believe the Bomber capable of launching a pair every six seconds, making casualties from any strafing run a virtual certainty. Thankfully, they are unguided and travel too slowly to be of any practical use against aerial targets, making the Bomber vulnerable in combat.&#10;&#10;The entire craft has been designed around these weapons. The thin wings jutting out from either side of the saucer are likely intended to stabilise the craft during an attack run, while the saucer itself is largely hollow and presumably mostly used for ammunition storage (the Harridan pilot, craft reactor and avionics are all crammed into a small area at the front). We actually believe that this is the reason why little of these UFOs survives an interception, as the remaining torpedoes tend to detonate either immediately or on impact with the ground. In short, the Bomber is an underwhelming combatant, but one that must be dealt with quickly.</desc>
-<cdesc></cdesc>
+<cdesc>外星轰炸机是UFO中型单位，专门用于地面攻击。尽管拦截机很容易对付它，但它能快速造成大量伤亡，并且毁灭城市，并因此会削弱我们和其他国家的资金关系。&#10;&#10;它安装有两个相连的电磁鱼雷发射轨道，在飞盘背部形成一个半圆。每一颗鱼雷都足以击沉一艘游轮，我们认为轰炸机有能力每6秒发射一对鱼雷，这使得它每一轮扫射都造成实质性的伤害。很庆幸的是，它们没有一个统一的指挥，并且移动速度缓慢，是个不善于空战的脆弱单位。&#10;&#10;整个飞船的构造如下，单薄的机翼在飞碟的两端，应该是设计用于移动攻击的稳定性，飞船本身有很大的空间，不难推测那是用于弹药的存储（暴躁的飞行员，飞船引擎和航天仪器都挤在了头部的狭小空间）。我们认为这也是为什么这些UFO在被拦截后极少有幸存者的原因，仅存的鱼雷被直接引爆或者撞击地面造成爆炸。总而言之，轰炸机不热衷于空战，但必须快速被击落。</cdesc>
