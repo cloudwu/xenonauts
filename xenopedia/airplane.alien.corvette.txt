@@ -1,7 +1,7 @@
 <index>airplane.alien.corvette</index>
 <name>Corvette UFO</name>
-<cname></cname>
+<cname>UFO护卫舰</cname>
 <type>UFOs</type>
-<ctype></ctype>
+<ctype>UFO舰队</ctype>
 <desc>The Corvette is a medium-sized UFO. It is the first genuine alien warship we have encountered, exchanging the delicate &quot;wing&quot; surfaces used by smaller UFOs as sensor amplifiers for sturdier hull construction and more powerful weapons.&#10;&#10;The armour plating on this craft is the same stuff as on the lighter UFOs but applied in greater quantities, adding enormous survivability at the cost of greatly increased weight. The large engines mounted in the rear of the vessel are enough to keep it airborne, but it is slow and ponderous compared to the lighter craft that preceded it (and therefore vulnerable to heavy torpedoes). The power requirements of these engines necessitate both a second power core and an improved method of power transmission - the hull electronics are much more advanced than previously, so we have extracted them for further study. &#10;&#10;The primary armament of the Corvette is a forward-firing heavy plasma cannon. This has a slow rate of fire, but generates a powerful explosive projectile that is just as deadly when used to bomb ground targets as it is when used against aerial opponents. These projectiles travel relatively slowly and you may find that our more agile interceptors are able to avoid them with an evasive roll maneuver, but they will inflict heavy damage on anything they hit. Be very careful about flying your interceptors into its firing arc. </desc>
-<cdesc></cdesc>
+<cdesc>护卫舰是中型UFO。它是我们遭遇的首个真正的外星战舰，更换了同类UFO用作传感器扩展的脆弱的&quot;机翼&quot;，使用更坚固的结构和更强大的武器。&#10;&#10;飞船的护甲和轻型UFO是一样的，但是使用了更大的量，以这种增加重量的方式来换取更大的生存几率。背部搭载的大型引擎足以让机身保持滞空，但是它相对于之前的轻型飞船明显地缓慢和笨重（也因此在重型鱼雷面前显得无力）。为了让引擎能够工作，必须要附加一颗能量核心和一套改良过的能源传输系统——由于船身的电子设备相较之前更加先进，我们将它们分解开做更深入的研究。&#10;&#10;护卫舰的主要武器是一门前置的电浆炮。其发射速度慢，但是会产生有强力爆炸效果的炮弹，用于轰炸地面单位或是对抗空中单位都同等致命。这些炮弹的移动速度相对缓慢，你可能会发现灵活的拦截机可以通过规避机动躲开它们，但碰触到的他们会造成巨大的伤害。让你的拦截机飞向电浆炮的发射弧时一定要非常小心。</cdesc>
