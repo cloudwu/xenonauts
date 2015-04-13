@@ -1,7 +1,7 @@
-<index>Hangar</index>
+ï»¿<index>Hangar</index>
 <name>Hangar</name>
-<cname>·É»ú¿â</cname>
+<cname>é£æœºåº“</cname>
 <type>Base Structures</type>
-<ctype>»ùµØ½¨ÖşÎï</ctype>
+<ctype>åŸºåœ°å»ºç­‘ç‰©</ctype>
 <desc>Each Hangar will house a single interceptor or dropshop; a free hangar bay is necessary before you are able to purchase or construct an additional aircraft.&#10;&#10;These structures are quick to construct and have relatively low upkeep, but the aircraft they house do not. Decommission any unnecessary aircraft quickly!</desc>
-<cdesc>Ã¿¸ö·É»ú¿â¿ÉÒÔÍ£·ÅÒ»¼ÜÀ¹½Ø»ú»òÕß¶Í¹¤³µ¼ä£»ÔÚ¹ºÂò»òÕß½¨ÔìĞÂµÄ·É»úÖ®Ç°£¬±ØĞë±£Ö¤ÓĞÒ»¸ö¿ÕµÄ·É»ú¿â¡£&#10;&#10;·É»ú¿â½¨ÔìÊ±¼äºÜ¶Ì£¬Î¬»¤³É±¾µÍ£¬µ«ÊÇÍ£·Å·É»úµÄ»¨·Ñ½Ï¸ß¡£ËùÒÔ¼°Ê±µØÈÃ²»±ØÒªµÄ·É»úÍËÒÛ£¡</cdesc>
+<cdesc>æ¯ä¸ªé£æœºåº“å¯ä»¥åœæ”¾ä¸€æ¶æ‹¦æˆªæœºæˆ–è€…é”»å·¥è½¦é—´ï¼›åœ¨è´­ä¹°æˆ–è€…å»ºé€ æ–°çš„é£æœºä¹‹å‰ï¼Œå¿…é¡»ä¿è¯æœ‰ä¸€ä¸ªç©ºçš„é£æœºåº“ã€‚&#10;&#10;é£æœºåº“å»ºé€ æ—¶é—´å¾ˆçŸ­ï¼Œç»´æŠ¤æˆæœ¬ä½ï¼Œä½†æ˜¯åœæ”¾é£æœºçš„èŠ±è´¹è¾ƒé«˜ã€‚æ‰€ä»¥åŠæ—¶åœ°è®©ä¸å¿…è¦çš„é£æœºé€€å½¹ï¼</cdesc>

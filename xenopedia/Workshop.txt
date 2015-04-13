@@ -1,7 +1,7 @@
-<index>Workshop</index>
+ï»¿<index>Workshop</index>
 <name>Workshop</name>
-<cname>³µ¼ä</cname>
+<cname>è½¦é—´</cname>
 <type>Base Structures</type>
-<ctype>»ùµØ½¨ÖşÎï</ctype>
+<ctype>åŸºåœ°å»ºç­‘ç‰©</ctype>
 <desc>Workshops allow a base to construct aircraft, vehicles and battlefield equipment. Each Workshop will house up to 15 engineers, who require both living space and workshop space to be available before they can be recruited. Unlike Laboratories, Workshops are NOT networked - engineers in different bases cannot collaborate on projects.&#10;&#10;Engineers suffers diminishing returns when at work: the first engineer on a project works at 100% efficiency, the second at 99% efficiency, the third at 98% efficiency (and so forth). Finally, as workshops are expensive and have unusually high maintenance costs, consider your finances carefully before constructing one.</desc>
-<cdesc>ÓĞÁË³µ¼äÖ®ºó£¬»ùµØ¾Í¿ÉÒÔ½¨ÔìÕ½¶·»ú£¬ÔËÊä¹¤¾ßºÍ×÷Õ½×°±¸¡£Ã¿¸ö³µ¼ä¿ÉÒÔ²¿Êğ15¸ö¹¤³ÌÊ¦£¬ÒªÕĞÄ¼¹¤³ÌÊ¦£¬±ØĞë±£Ö¤ÓĞ³ä×ãµÄÉú»î¿Õ¼äºÍ¹¤×÷¿Õ¼ä¡£³µ¼äºÍÊµÑéÊÒ²»Í¬£¬³µ¼äÃ»ÓĞÁªÍø¡ª¡ª²»Í¬»ùµØµÄ¹¤³ÌÊ¦²»ÄÜºÏ×÷Íê³ÉÏîÄ¿¡£&#10;&#10;¶à¸ö¹¤³ÌÊ¦ºÏ×÷µÄÊ±ºòÊÕÒæµİ¼õ£ºµÚÒ»¸ö¹¤³ÌÊ¦¹¤×÷Ğ§ÂÊÊÇ100%£¬µÚ¶ş¸öÊÇ99%£¬µÚÈı¸öÊÇ98%£¬ÒÔ´ËÀàÍÆ¡£×¢Òâ£¬¼øÓÚ³µ¼äµÄÔì¼Û¸ß°º£¬Î¬»¤³É±¾¸ß£¬ËùÒÔÔÚ½¨ÔìÖ®Ç°£¬Òª¹ÀÁ¿ºÃÄãµÄ×Ê½ğ¡£</cdesc>
+<cdesc>æœ‰äº†è½¦é—´ä¹‹åï¼ŒåŸºåœ°å°±å¯ä»¥å»ºé€ æˆ˜æ–—æœºï¼Œè¿è¾“å·¥å…·å’Œä½œæˆ˜è£…å¤‡ã€‚æ¯ä¸ªè½¦é—´å¯ä»¥éƒ¨ç½²15ä¸ªå·¥ç¨‹å¸ˆï¼Œè¦æ‹›å‹Ÿå·¥ç¨‹å¸ˆï¼Œå¿…é¡»ä¿è¯æœ‰å……è¶³çš„ç”Ÿæ´»ç©ºé—´å’Œå·¥ä½œç©ºé—´ã€‚è½¦é—´å’Œå®éªŒå®¤ä¸åŒï¼Œè½¦é—´æ²¡æœ‰è”ç½‘â€”â€”ä¸åŒåŸºåœ°çš„å·¥ç¨‹å¸ˆä¸èƒ½åˆä½œå®Œæˆé¡¹ç›®ã€‚&#10;&#10;å¤šä¸ªå·¥ç¨‹å¸ˆåˆä½œçš„æ—¶å€™æ”¶ç›Šé€’å‡ï¼šç¬¬ä¸€ä¸ªå·¥ç¨‹å¸ˆå·¥ä½œæ•ˆç‡æ˜¯100%ï¼Œç¬¬äºŒä¸ªæ˜¯99%ï¼Œç¬¬ä¸‰ä¸ªæ˜¯98%ï¼Œä»¥æ­¤ç±»æ¨ã€‚æ³¨æ„ï¼Œé‰´äºè½¦é—´çš„é€ ä»·é«˜æ˜‚ï¼Œç»´æŠ¤æˆæœ¬é«˜ï¼Œæ‰€ä»¥åœ¨å»ºé€ ä¹‹å‰ï¼Œè¦ä¼°é‡å¥½ä½ çš„èµ„é‡‘ã€‚</cdesc>

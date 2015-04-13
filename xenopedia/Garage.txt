@@ -1,4 +1,4 @@
-<index>Garage</index>
+﻿<index>Garage</index>
 <name>Garage</name>
 <cname>车库</cname>
 <type>Base Structures</type>

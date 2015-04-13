@@ -1,7 +1,7 @@
-<index>Storeroom</index>
+ï»¿<index>Storeroom</index>
 <name>Storeroom</name>
-<cname>²Ö¿â</cname>
+<cname>ä»“åº“</cname>
 <type>Base Structures</type>
-<ctype>»ùµØ½¨ÖşÎï</ctype>
+<ctype>åŸºåœ°å»ºç­‘ç‰©</ctype>
 <desc>The Storeroom of a base houses all manufactured or recovered equipment at the base. This is not required for items that are available in unlimited quantities - so aircraft weapons / ammunition or ballistic weapons for your soldiers will still be available without a Storeroom. However, the base cannot receive any manufactured soldier weapons or armour until it has storage space for them, nor collect any Alenium / alien alloys.&#10;&#10;A single Storeroom is capable of holding an unlimited quantity of items.</desc>
-<cdesc>²Ö¿â´æ·Å×Å»ùµØËùÓĞµÄÖÆÔìÉè±¸ºÍÎ¬»¤Éè±¸¡£ÎŞÏŞÁ¿¹©Ó¦µÄÎïÆ·²»ĞèÒª²Ö¿â¡ª¡ªËùÒÔ»úÔØÎäÆ÷£¬µ¯Ò©ºÍÊ¿±øµÄµ¯µÀÎäÆ÷ÔÚ²»Õ¼ÓÃ²Ö¿âµÄÇé¿öÏÂ¾ÍÄÜÊ¹ÓÃ¡£µ«ÊÇ£¬Èç¹û²Ö¿âÃ»ÓĞ¿ÕÓàÎ»ÖÃ£¬»ùµØ¾Í²»ÄÜ½ÓÊÕĞÂµÄÎäÆ÷ºÍ×°¼×£¬Ò²²»ÄÜÊÕ¼¯ÍâĞÇºÏ½ğÁË¡£&#10;&#10;Ò»¸ö¿â·¿¾ÍÄÜ´æ·ÅÏÂËùÓĞµÄ²»ÏŞÁ¿ÎïÆ·¡£</cdesc>
+<cdesc>ä»“åº“å­˜æ”¾ç€åŸºåœ°æ‰€æœ‰çš„åˆ¶é€ è®¾å¤‡å’Œç»´æŠ¤è®¾å¤‡ã€‚æ— é™é‡ä¾›åº”çš„ç‰©å“ä¸éœ€è¦ä»“åº“â€”â€”æ‰€ä»¥æœºè½½æ­¦å™¨ï¼Œå¼¹è¯å’Œå£«å…µçš„å¼¹é“æ­¦å™¨åœ¨ä¸å ç”¨ä»“åº“çš„æƒ…å†µä¸‹å°±èƒ½ä½¿ç”¨ã€‚ä½†æ˜¯ï¼Œå¦‚æœä»“åº“æ²¡æœ‰ç©ºä½™ä½ç½®ï¼ŒåŸºåœ°å°±ä¸èƒ½æ¥æ”¶æ–°çš„æ­¦å™¨å’Œè£…ç”²ï¼Œä¹Ÿä¸èƒ½æ”¶é›†å¤–æ˜Ÿåˆé‡‘äº†ã€‚&#10;&#10;ä¸€ä¸ªåº“æˆ¿å°±èƒ½å­˜æ”¾ä¸‹æ‰€æœ‰çš„ä¸é™é‡ç‰©å“ã€‚</cdesc>
