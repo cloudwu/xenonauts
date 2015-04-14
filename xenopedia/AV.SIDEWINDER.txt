@@ -1,7 +1,7 @@
 <index>AV.SIDEWINDER</index>
 <name>Sidewinder Missile</name>
-<cname></cname>
+<cname>响尾蛇导弹</cname>
 <type>Xenonaut Aircraft Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 航空器机载武器</ctype>
 <desc>The AIM-9 Sidewinder is a light air-to-air missile. It has a longer range and will inflict more damage than a burst from the Autocannon, but is a single-use weapon and can be avoided by the more agile enemy combatants. It can be fitted to both Light and Heavy missile hardpoints.&#10; &#10;The ability to inflict a large amount of damage relatively quickly make the Sidewinder valuable in a dogfight, as we believe it likely that alien weapons will be significantly more powerful at close range than our cannons. The Sidewinders will allow us to damage the craft before getting into range of their weapons, turning the tide of the battle in our favour. Using multiple interceptors in the same squadron may even allow us to destroy an alien craft in a barrage of Sidewinders without taking any damage ourselves. &#10;&#10;A Sidewinder cannot be fired until the interceptor has missile lock on the target - this requires keeping the target in range and in front of the interceptor for a couple of seconds. You should also be aware that these missiles are not infallible - it is perfectly plausible that alien craft may be nimble enough to avoid them. </desc>
-<cdesc></cdesc>
+<cdesc>AIM-9响尾蛇是一种轻型空对空导弹。与机炮相比，它具有更远的射程和更大的杀伤力，但属于一次性武器，能够被足够敏捷的对手躲避掉。它能同时适配轻重两型导弹挂载点。 &#10; &#10;据我们所知，外星人武器在近距离时对我们的加农炮有显著的优势，这使得拥有高杀伤力的响尾蛇导弹在狗斗中具有重要的价值，它使我们能够在进入对方武器射程之前对其形成伤害，从而将战斗形势扭转向对我方有利的一面。在舰队中拥有多艘截击机的情况下，我们甚至能通过响尾蛇齐射直接零伤击毁敌机。 &#10;&#10;响尾蛇仅在截击机锁定目标后才能发射——这就意味着必须在数秒内保持目标处于射程范围且位于截击机正前方。同时，你需要意识到这些导弹并非百发百中——那些反应足够灵敏的外星飞行器完全有可能躲避掉它们。</cdesc>
