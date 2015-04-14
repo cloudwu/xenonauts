@@ -1,7 +1,7 @@
 <index>LivingQuarters</index>
 <name>Living Quarters</name>
-<cname></cname>
+<cname>生活区</cname>
 <type>Base Structures</type>
 <ctype>基地建筑</ctype>
 <desc>Living Quarters provide housing for up to 35 personnel - either Soldiers, Scientists or Engineers (any combination of the three personnel types can be housed in the same structure). Living space and any appropriate work space must be in place before new staff can be hired, so ensure your bases have enough living quarters to accommodate your expansion plans.</desc>
-<cdesc></cdesc>
+<cdesc>每个生活区能够容纳35位住民，包括士兵、科学家和工程师（不同职业的住民可以住在一个生活区中）。在招募新的工作人员之前，必须有足够的居住空间和工作空间。所以在您实行扩张计划时，请保证您的基地中有足够的生活区。</cdesc>
