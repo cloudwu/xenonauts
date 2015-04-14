@@ -1,7 +1,7 @@
 <index>airplane.human.chinook</index>
 <name>CH-48 Charlie</name>
-<cname></cname>
+<cname>CH-48 查理</cname>
 <type>Xenonaut Aircraft</type>
 <ctype>Xenonaut 飞行器</ctype>
 <desc>The CH-48 Charlie is a twin-rotor transport helicopter based on the reliable CH-47 Chinook. It serves the Xenonauts as a dropship, ferrying up to eight men and their equipment to combat zones almost anywhere in the world. &#10;&#10;The Charlie has been heavily modified for Xenonaut use. The operational range of the craft has been vastly increased, allowing it to reach almost any destination in the world on a single tank of fuel (it can also be refuelled mid-air if the local government are feeling sufficiently cooperative). It has also been fitted with heavier armour, as our strike teams are expected to &quot;hot drop&quot; into combat areas and may come under fire immediately - losing our dropship to ground fire during landing / the subsequent mission would hardly be ideal. Though necessary, this has unfortunately reduced the carrying capacity down to eight men.&#10;&#10;The Charlie is slow and defenceless, making it easy prey for alien craft. Your strike team is likely to take casualties if their dropship is shot down, so it may be worth adding interceptors to the Charlie's squadron if there is any UFO activity in the target area.</desc>
-<cdesc></cdesc>
+<cdesc>CH-48 “查理”是一种在CH-47 “支奴干”基础上发展而来的双螺旋桨运输直升机。它被作为一种运输机型服务于Xenonauts，可一次性将八名全副武装的人员及其装备投送至战区。&#10;&#10;“查理”为适应Xenonauts 需求已被深度改装。其作战半径已大幅度提升，使其几乎能够仅凭单油箱到达世界上任何角落（在当地政府积极配合的情况下，该机也能进行空中加油）。由于我们的攻击分队需要通过“热投送”进入战斗区域，可能立即遭受火力打击，因此该机装备有重型护甲——运输机在着陆过程中被地面炮火击毁，其后的任务将很难完美进行。鱼和熊掌不可兼得，这也使得其荷载人数降至八人。&#10;&#10;“查理”的行动缓慢且毫无自卫能力使其成为外星飞船理想的猎物。如果运输机被击落，其所搭载的攻击分队亦有可能遭受战损，因此，当目标区域有UFO活动迹象时，为“查理”编队添置截击机将是合理的选择。</cdesc>
