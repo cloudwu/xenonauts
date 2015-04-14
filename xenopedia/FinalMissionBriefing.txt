@@ -1,7 +1,7 @@
 <index>FinalMissionBriefing</index>
 <name>Final Mission</name>
-<cname></cname>
+<cname>最后的任务</cname>
 <type>Extraterrestrials</type>
-<ctype></ctype>
+<ctype>外星生物</ctype>
 <desc>The objective of this operation is simple - kill the alien High Praetor. The fate of the entire human race rests on the death of this one alien. The captured Praetor has provided access codes for the uppermost level of the Dreadnought. It will not be long until the aliens realise what is happening: the dropship will unload your men in the landing bay and disengage immediately. We are unsure if it will be able to withdraw before the alien guns come online, but the pilots are prepared to give their lives if necessary.&#10;&#10;The High Praetor will be directly ahead of your men when they land. Your men must overcome all alien resistance and slay their commander. You must act quickly - the Reapers from the lower decks will begin clambering through the access tubes towards the bridge as soon as the High Praetor calls them. They will take some time to arrive, but there will be too many to fight. Your men must kill the High Praetor before they are overwhelmed.&#10;&#10;A final twist: the Dreadnought's escape pods will only activate if the vessel is in danger. Destroying the two nearby power cores will activate the escape pods, but will take valuable time. However, you may not have time to double back for them if you immediately march on the palace. You must decide whether it is worth risking the survival of our entire planet to save those who have fought so hard to protect it.&#10;&#10;Act as you see fit, Commander. Destiny awaits.</desc>
-<cdesc></cdesc>
+<cdesc>本次行动的目标很简单——斩首外星至高执政官。整个人类的命运将取决于这个外星生物的死亡。被俘虏的执政官已经供出了无畏舰最高层级的同行密码。外星人将会很快意识到发生了什么：运输机把你的人运送至着陆港后旋即离开。我们并不确定在它安全撤离之前外星人的武器是否就会被激活，但无论如何，飞行员已经做好了在必要时候牺牲自己性命的准备。&#10;&#10;当你的人到达那里后，至高执政官就位于你们的正前方。你们必须顶住所有外星人的抵抗火力，全力击杀他们的长官。你们必须迅速行动——一旦至高执政官下令，位于下层甲板的收割者们会立即顺着通道涌向舰桥。他们将要花些时间才能抵达那里，但他们的数量多到你们无法应付。你们必须在被敌群淹没之前杀掉至高执政官。&#10;&#10;最后一点：无畏舰的逃生舱只有在舰船处于危险状态时才会激活。摧毁两个就近的能量核心就能激活它们，但这需要耗费宝贵的时间。不幸的是，如果登上无畏舰时立即开展行动的话，你可能并没有时间赶到那里。你必须决定是否要将整个星球置于毁灭的危险中而去搭救这些勇士，尤其是当他们本就是为了保护这颗星球而选择去奋力斗争的时候。&#10;&#10;追随你自己的选择吧，长官。命运等待着你。</cdesc>
