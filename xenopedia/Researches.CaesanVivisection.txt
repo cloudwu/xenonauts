@@ -2,6 +2,6 @@
 <name>Caesan Analysis</name>
 <cname></cname>
 <type>Alien Units</type>
-<ctype></ctype>
+<ctype>外星部队</ctype>
 <desc>These pallid creatures are most disconcerting in the flesh, Commander. They are a twisted mockery of our own species, resembling us so closely that one cannot help but feel a creeping sense of revulsion when you stare into their malevolent eyes.&#10;&#10;In practical terms, a Caesan is a superior approximation of a human soldier. They are highly intelligent and are accorded excellent situational awareness by their oversized eyes. Their manual dexterity and reflex speed is much the same as our own. They behave much like human military forces - engaging at long range and making good use of battlefield cover. Despite their frail physiology, their equipment makes them difficult to kill. Even the ubiquitous jumpsuit offers remarkable protection and is supplemented with additional protective gear at higher ranks. &#10;&#10;Scans have revealed that the brain tissue of these creatures is unusually active, with samples taken during autopsies suggesting that it is extraordinarily rich in energy-dense Alenium nanoparticles. As we have already established that these creatures communicate via telepathy, this hints at further (as yet unknown) mental abilities. Finally, we have concluded the analysis by collating all known vulnerabilities in Caesan equipment, tactics and physiology into a document for your soldiers. This additional knowledge should increase the damage they inflict on these enemies by approximately ten percent.</desc>
 <cdesc></cdesc>

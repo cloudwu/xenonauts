@@ -2,6 +2,6 @@
 <name>Rapid-Fire Plasmas</name>
 <cname></cname>
 <type>Xenonaut Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 武器</ctype>
 <desc>We now have Plasma variants of our generic infantry weapons such as pistols and rifles, but we are still lacking an equivalent for high rate-of-fire weapons such as the machinegun or interceptor autocannon. The infantry-portable Plasma Caster and the more substantial aircraft-mounted Plasma Blaster have been designed to fill this void. &#10;&#10;They work on similar principles. Both expel large amounts of plasma in the form of a sustained stream, utilising a large generation array that continually discharges superheated plasma. In ordinary conditions it would be difficult to focus this stream and it would dissipate quickly, giving it short range and poor armour penetration. However, we have solved this problem by employing a ring of five graviton generators around the muzzle of the weapon. These fire sequentially, regularly injecting gravitons into the plasma and breaking the stream up into a string of individual projectiles.&#10;&#10;This effect replicates the high rate-of-fire of conventional automatic weapons and combines it with the extra damage of a plasma weapon. Both should make useful upgrades in our fight against the extraterrestrials.</desc>
 <cdesc></cdesc>

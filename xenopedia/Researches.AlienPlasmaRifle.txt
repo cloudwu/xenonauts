@@ -2,6 +2,6 @@
 <name>Alien Plasma Rifle</name>
 <cname></cname>
 <type>Alien Weapons</type>
-<ctype></ctype>
+<ctype>外星武器</ctype>
 <desc>The alien Plasma Rifle is a two-handed alien infantry weapon approximately thirty inches in length and three kilograms in weight. It is a vastly more capable combat weapon than the alien Plasma Pistol, generating a plasma bolt that is significantly more powerful and cohesive than its smaller cousin. &#10;&#10;Without the space constraints of the Plasma Pistol, the aliens have mounted a more substantial generation array inside the weapon's barrel. This gives it a similar operational range to most ballistic assault rifles, but far higher damage and armour penetration potential. Laboratory tests suggest Jackal combat armour may do just enough to allow the wearer to survive a direct hit, but unarmoured troops would likely be killed instantly. Indeed, we believe this weapon is even a credible threat to our Hunter armoured cars.&#10;&#10;It would appear that the versatility of the alien Plasma Rifle makes it the default armament for alien combatants. It is powerful, light, accurate and capable of burst fire - in short, vastly superior to anything we possess. </desc>
 <cdesc></cdesc>

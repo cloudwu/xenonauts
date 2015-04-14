@@ -2,6 +2,6 @@
 <name>Advanced Medpack</name>
 <cname></cname>
 <type>Xenonaut Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 武器</ctype>
 <desc>Not needed.</desc>
 <cdesc></cdesc>

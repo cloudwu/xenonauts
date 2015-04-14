@@ -2,6 +2,6 @@
 <name>Alien Battle Rifle</name>
 <cname></cname>
 <type>Alien Weapons</type>
-<ctype></ctype>
+<ctype>外星武器</ctype>
 <desc>The Alien Battle Rifle is an alien weapon around forty inches long and five kilogrammes in weight. It can project deadly bolts of plasma over great distance with incredible accuracy, is capable of burst fire and has excellent armour mitigation. Be very careful of enemies carrying this weapon - not only do they have access to the most fearsome weapon in the extraterrestrial arsenal, they will also represent the elite of the alien forces.&#10;&#10;The Battle Rifle is the finest example of a plasma weapon we are likely to encounter. The engineering is extremely impressive: there is little to differentiate the workings of the Battle Rifle from other alien weapons beyond the quality of production. Virtually every component shows dozens of incremental improvements: for example, every electromagnet in the weapon has a hardened alloy core that has undergone complete electron rearrangement, allowing them to generate a charge twice as powerful as normal. It would probably take us years to replicate just one of these weapons. &#10;&#10;We would do well to clone this design, but we could also do better still. Although we have witnessed first-hand how devastating plasma technology can be, it still suffers from inherent limitations - studying every example of Alien Weapons may just give us enough the knowledge we need to develop a new category of weapons that surpasses them entirely.</desc>
 <cdesc></cdesc>

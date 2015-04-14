@@ -2,6 +2,6 @@
 <name>Rapid-Fire MAGs</name>
 <cname></cname>
 <type>Xenonaut Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 武器</ctype>
 <desc>It is pleasing to be working with kinetic weapons again; humans have been using them for thousands of years and I feel we have developed a certain affinity with them. The intricacies of MAG technology are extremely complex and dramatically different from those of ballistic weapons, but there are still basic principles that can be carried between the two.&#10;&#10;The rotary barrel arrangement is one, having served us well even for our rapid-fire energy weapons. We have adapted it for one final use: the MAGSTORM, a devastating weapon capable of annihilating a target in a hail of hypersonic projectiles. It consists of four rotating barrels, each of which has an electromagnetic spiral that is wound twice as tightly as on a standard MAG weapon. This could be used to impart more force on a projectile, but instead the weapon is set up so that each bullet uses only half of the coil. This allows each barrel to accelerate two bullets simultaneously, giving eight times the normal fire rate with no loss of stopping power. &#10;&#10;This technology is equally effective when using small-calibre infantry ammunition or large-calibre aircraft munitions. It represents the ultimate in rapid-fire weaponry; I'm sure your men will be keen to get their hands on them.</desc>
 <cdesc></cdesc>

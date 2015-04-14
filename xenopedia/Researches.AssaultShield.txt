@@ -2,6 +2,6 @@
 <name>Assault Shield</name>
 <cname></cname>
 <type>Xenonaut Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 武器</ctype>
 <desc>The Assault Shield is a direct upgrade for the Combat Shield, employing our new knowledge of hardened alien alloys to create a tactical shield with much improved durability. It functions in the same way as its predecessor - soaking up most of the incoming damage from targets in front of the user.&#10;&#10;The vastly improved ballistic and thermal resistance of hardened alien alloys make them much more effective at stopping incoming damage. As fabricating a rectangle is not a difficult task, the main point of debate was over whether we should design a lighter and less cumbersome shield or leave the weight unchanged and greatly increase protection. Discussion with your men revealed they had an overwhelming preference for the latter, and given the brief life expectancy of your breaching soldiers I was inclined to agree with them. The Assault Shield should be able to withstand several hits from most alien plasma weapons before failing, hopefully enough to get the user through a mission without serious injury. &#10;&#10;The Assault Shield does, of course, fill one of the soldier's hands. Unable to wield two-handed weapons, they will be forced to use a pistol. You should also be aware that our shields do not provide complete protection; there is always a small chance that a lucky shot will hit an exposed body-part.</desc>
 <cdesc></cdesc>

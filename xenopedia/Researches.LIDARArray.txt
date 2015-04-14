@@ -2,6 +2,6 @@
 <name>LIDAR Array</name>
 <cname></cname>
 <type>Xenonaut Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 武器</ctype>
 <desc>Description goes here.</desc>
 <cdesc></cdesc>

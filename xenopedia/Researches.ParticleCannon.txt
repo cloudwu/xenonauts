@@ -2,6 +2,6 @@
 <name>Particle Cannon</name>
 <cname></cname>
 <type>Alien Technology</type>
-<ctype></ctype>
+<ctype>外星科技</ctype>
 <desc>The MiG-32 is a</desc>
 <cdesc></cdesc>

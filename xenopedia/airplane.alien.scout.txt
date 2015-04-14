@@ -2,6 +2,6 @@
 <name>Scout UFO</name>
 <cname></cname>
 <type>UFOs</type>
-<ctype></ctype>
+<ctype>ＵＦＯ舰队</ctype>
 <desc>The alien Scout is small craft with a larger crew than the Light Scout. Though still a scout craft, it is larger, better-armed and more dangerous than its predecessor.&#10;&#10;The design consists of two crew compartments, a sizeable semi-circular forward compartment that contains the ship's control systems and a circular bay at the rear of the vessel that houses the ship's power source. It has substantial armour plating around its key compartments, usually 8mm thick but rising to double that in some areas (perhaps suggesting the &quot;armour&quot; on the Light Scout was in fact little more than a heat shield). This makes it a much more formidable combatant than the Light Scout, particularly coupled with a plasma beam that has greater range and inflicts additional damage.&#10;&#10;The hull is dotted with an extensive network of sensors that feed data into crew compartment. These glowing &quot;eyes&quot; seem to track everything from airspeed to infra-red emissions and probably represent the method by which the craft gathers intelligence on our planet and species.&#10;</desc>
 <cdesc></cdesc>

@@ -2,6 +2,6 @@
 <name>Autocannon</name>
 <cname>自行加农炮</cname>
 <type>Xenonaut Aircraft Weapons</type>
-<ctype>Xenonaut飞行器武器</ctype>
+<ctype>Xenonaut 机载武器</ctype>
 <desc>The Autocannon is a variant of the 20mm M61 Vulcan rotary cannon. It is a short-range, high rate-of-fire weapon best suited to dealing with agile craft that are difficult to hit with missiles.&#10;&#10;Our F-17 Condor aircraft have this weapon fitted in their integrated cannon bay by default. It will inflict good sustained damage on a target, but it obviously requires the pilot to get close enough to use it - leaving the Condor vulnerable to return fire. If you plan to engage a hostile craft using this weapon, try to avoid the firing arcs of its defensive weapons. Approaching the target from the side or behind is much more likely to result in a successful kill than a head-on attack.</desc>
 <cdesc>自行加农炮是20mm M61火神式机炮的变种。是一种射程短，火力强的武器，适用于解决导弹难于命中的敏捷飞行器。&#10;&#10;我方的F-17秃鹰飞机默认装配了这种武器。它可对目标造成出色的持续伤害，但使用时需要驾驶员接近目标——这使得秃鹰更易遭到还击。如果你打算对敌机使用这个武器，尽量避开对方防御武器的火力范围。从侧面或者背面接近目标会比迎面而上更容易成功击杀。</cdesc>

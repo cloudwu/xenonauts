@@ -2,6 +2,6 @@
 <name>Alien Assault Plasma</name>
 <cname></cname>
 <type>Alien Weapons</type>
-<ctype></ctype>
+<ctype>外星武器</ctype>
 <desc>The alien Assault Plasma is a two-handed alien infantry weapon roughly twenty-eight inches in length and five kilograms in weight. Though it employs a different method of operation, it acts much like a shotgun in effect: it spits multiple &quot;pellets&quot; of deadly plasma at the target.&#10;&#10;These &quot;pellets&quot; are, of course, nothing of the sort. Each is an individual bolt of plasma fired from one of the weapon's three entirely separate barrels. The device employs a particularly large generation array, which allows all three of the barrels to simultaneously discharge a bolt of plasma that is almost as powerful as the bolt fired by the alien Plasma Rifle. This makes the weapon highly dangerous at short range: if all three shots strike the same target, it is unlikely to survive the experience.&#10;&#10;Thankfully, this weapon is inaccurate, has mediocre armour penetration and a very limited range - it does not appear to utilise the standard graviton emitter seen on other alien weapons at all. Tackle enemies wielding this weapon at distance, as it relies on proximity rather than precision.</desc>
 <cdesc></cdesc>

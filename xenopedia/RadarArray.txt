@@ -2,6 +2,6 @@
 <name>Radar Array</name>
 <cname>雷达阵列</cname>
 <type>Base Structures</type>
-<ctype>基地建筑物</ctype>
+<ctype>基地建筑</ctype>
 <desc>Radar Array structures allow a base to detect extraterrestrial UFOs. The detection radius of the base is shown as a blue circle on the Geoscape; any UFOs that enter this circle will be detected almost immediately irrespective of distance from the facility.&#10;&#10;The radar range of a base can be expanded by constructing additional Radar Arrays, however this will only apply three times (i.e. there is no point building a fourth Radar Array). </desc>
 <cdesc>雷达阵列允许基地探测外星人的UFO。基地探测半径会在地图上以蓝色圈住；进入这个圈内的UFO都会被马上探测到，无论UFO距离设施有多远。&#10;&#10;雷达探测半径可以通过建造更多的雷达阵列来扩展，但是只能扩展三次（建造第四个雷达阵列对扩展范围没有帮助。）</cdesc>

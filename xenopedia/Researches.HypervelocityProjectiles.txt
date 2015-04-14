@@ -2,6 +2,6 @@
 <name>Hypervelocity Projectiles</name>
 <cname></cname>
 <type>Xenonaut Aircraft</type>
-<ctype></ctype>
+<ctype>Xenonaut 飞行器</ctype>
 <desc>The MiG-32 is a</desc>
 <cdesc></cdesc>

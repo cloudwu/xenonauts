@@ -2,6 +2,6 @@
 <name>Garage</name>
 <cname>车库</cname>
 <type>Base Structures</type>
-<ctype>基地建筑物</ctype>
+<ctype>基地建筑</ctype>
 <desc>As the name implies, the Garage houses any Xenonaut vehicles stationed at the base. Each garage will hold up to three vehicles and a free Garage slot is required before construction can even begin on a ground vehicle.</desc>
 <cdesc>顾名思义，车库可以停放Xenonaut驻扎在基地的交通工具。每个车库可以停放三辆车。地面交通工具在建造之前必须要有一个空闲的车库位置。</cdesc>
