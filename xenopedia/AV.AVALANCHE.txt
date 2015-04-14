@@ -1,7 +1,7 @@
 <index>AV.AVALANCHE</index>
 <name>Avalanche Torpedo</name>
-<cname></cname>
+<cname>雪崩鱼雷</cname>
 <type>Xenonaut Aircraft Weapons</type>
-<ctype></ctype>
+<ctype>Xenonaut 航空器机载武器</ctype>
 <desc>The Avalanche Torpedo is a heavy air-to-air missile with an extremely powerful warhead. Though it has a long range, it moves slowly and has a poor turn rate - meaning it is only really useful against large alien craft that are not able to evade it. It can only be fitted in Heavy missile slots.&#10;&#10;The Avalanche is essentially a subsonic anti-ship cruise missile repurposed for use against alien vessels. It can be fired from long range has an armour-penetrating warhead that should make it much more effective against more durable enemy craft, hopefully allowing interceptors equipped with them to fire and withdraw before coming into range of the enemy weapons. Be aware that the time required to obtain missile lock for this weapon is greater than on the lighter Sidewinder missile.&#10;</desc>
-<cdesc></cdesc>
+<cdesc>雪崩鱼雷是一种重型空对空导弹，装备有极为强力的战斗部弹头。尽管其拥有长射程，但飞行速度缓慢且转弯速率差——意味着其仅在对付那些无法躲避攻击的大型外星飞船时才有用武之地。其仅能适配重型导弹槽。&#10;&#10;雪崩鱼雷本被设计为装备于巡洋舰的亚音速反舰导弹，后被用于对付外星舰船。其能远距离发射且带有穿甲弹头，应该能够有效对付高耐久的敌方飞船，希望这能使携带该导弹的截击机在进入敌方射程前完成发射并安全脱离。请注意这款武器所需的导弹锁定时间较响尾蛇轻型导弹更长。&#10;</cdesc>
