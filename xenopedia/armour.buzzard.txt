@@ -1,7 +1,7 @@
-<index>armour.buzzard</index>
+﻿<index>armour.buzzard</index>
 <name>Buzzard Jumpsuit</name>
-<cname></cname>
+<cname>秃鹰跳跃服</cname>
 <type>Xenonaut Armour</type>
 <ctype>Xenonaut 护甲</ctype>
 <desc>The Buzzard Jumpsuit is a variant of the Wolf Battle Armour designed for mobility over protective ability. It is fitted with an integrated jump unit, a device that allows the wearer to move vertically on the battlefield. Refinement of the armour plate has decreased weight, slightly reducing protection but letting the soldier carry more into battle. &#10;&#10;The jump unit is a rather substantial device worn in a back harness. It consists of a miniaturised Alenium reactor connected to a pair of thrusters that sit above the wearer's shoulders, paired with various gyroscopic flight control systems and sensors. Though the jump unit is not powerful enough for prolonged flight, the user is able to hover for short periods if necessary. Even those who are not trained as pilots should find it easy enough to use in combat - input from the wearer is recorded via touchpads in the gloves, allowing them to steer their intended flight path (sadly also preventing them from using weapons while airborne). A complex array of vectored thrust ports copied from the alien directional thruster design provide fine control and auto-stabilisation when in flight. &#10;&#10;Clearly, the ability to &quot;jump&quot; atop buildings or leap impassable terrain has utility on the battlefield - particularly for your scouts and marksmen. Soldiers regularly exposed to enemy fire will likely still need the added protection of the Wolf, however.</desc>
-<cdesc></cdesc>
+<cdesc>秃鹰跳跃服是胡狼战斗装甲的改装版，它在保护作用的基础上，更加注重敏捷性。它有一整套的跳跃设备，和一个能让士兵垂直起降的装备。这种护甲的精钢材料减轻了重量，虽然保护能力下降了，但是战士却能在战场上携带更多的装备。&#10;&#10;跳跃服是非常实用，上面有一个微型的Alenium反应堆，作为肩膀上的两个推进器的动力，再配上传感器和陀螺仪来控制飞行。尽管这套装备不适于长时间飞行，但是必要时可以用来作短时间盘旋。即使是没有受过飞行训练的战士也能轻松地在战斗中使用它——通过手套上的触摸板来进行控制（这种便利的操作方式却也使得战士在飞行的时候不能使用武器）。复杂的推进导航系统利用了外星的先进技术，在飞行时提供精确的控制和稳定。 &#10;&#10;很显然，这种&quot;跳跃能力&quot;在作战时具有无与伦比的价值，你可以迅速跳上楼顶，或者跨过不可逾越的地形。对童子军和狙击手来说，更是不可多得的好装备。然而，对于要暴漏在敌人的火力下战斗的战士来说，胡狼战斗护甲仍是不二选择。</cdesc>
