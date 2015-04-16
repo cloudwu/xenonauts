@@ -1,7 +1,7 @@
 <index>weapon.heavyballistics</index>
 <name>Heavy Ballistics</name>
-<cname></cname>
+<cname>重型弹道武器</cname>
 <type>Xenonaut Weapons</type>
 <ctype>Xenonaut 武器</ctype>
 <desc>The Xenonauts are trained to use two main heavy weapons, the Machinegun and Rocket Launcher. Both of these suffer from recoil and a severe accuracy penalty if the user is not stationary when they attempt to fire the weapon. They are also, quite literally, heavy weapons - they will limit the amount of armour and equipment a soldier can carry into battle before being encumbered.&#10;&#10;The Machinegun is a weapon that fires bursts of powerful ammunition at the target. It is not particularly accurate, but has a long range and can be very effective at suppressing the enemy. It has significant recoil, making it most accurate in the hands of our stronger soldiers. Naturally, it is possible to inflict heavy damage on our enemies with this weapon (particularly if they have been caught out in the open or are in a large group) but it should be considered primarily as a support weapon that will pin them in place.&#10;&#10;Perhaps unsurprisingly, the Rocket Launcher fires rockets at our enemies. Each one is heavy and must be carried into battle individually, but is effective for both killing enemies and flattening battlefield terrain. However, be aware that killing units with explosives will not leave much behind that is recoverable.</desc>
-<cdesc></cdesc>
+<cdesc>Xenonaut 人员受训使用两款主要的重型武器，机枪及火箭发射器。当使用者尝试在不平稳的状态下进行发射时，这两种武器通常会受到后坐力影响并遭受严重的精度惩罚。它们也是名副其实的重型武器——它们限制了士兵在战场中顺畅行动所能配备的护甲及装备数量。&#10;&#10;机枪是一种能够向目标连续倾泻大量弹药的武器。射击精度并非它的长处，而长射程和高效的对敌压制能力才是它的优势。由于它会产生明显的后坐力，使其只有在我们强壮的士兵手里才能发挥足够的准度。诚然，这种武器可以被用于对敌军造成直接而严重的伤害（尤其是当他们出现在开阔地或者聚集在一起时），但首要考虑的应是将其作为一种支援型武器，用于压制目标，将他们牢牢地钉在地上。&#10;&#10;火箭发射器毫无疑问是用于向敌军发射火箭弹的。每台发射器具有相当的重量，因而只能在进入战场时单独携带，但其在消灭敌军和夷平战场地形方面非常有效。但是请注意，通过爆炸的方式消灭地方单位将不会使其留下多少可供回收的东西。</cdesc>
