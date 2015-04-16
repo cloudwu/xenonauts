@@ -1,7 +1,7 @@
-<index>armour.wolf</index>
+﻿<index>armour.wolf</index>
 <name>Wolf Battle Armour</name>
-<cname></cname>
+<cname>狼战斗护甲</cname>
 <type>Xenonaut Armour</type>
 <ctype>Xenonaut 护甲</ctype>
 <desc>The &quot;Wolf&quot; Battle Armour is a direct replacement for the Jackal Combat Armour, using the remarkable properties of alien alloys to provide extra protection to your men in combat. Each individual suit requires a large amount of money and alien alloys to fabricate in our workshops, but they should dramatically increase the combat effectiveness of our men.&#10;&#10;Wolf armour consists of numerous parts: an armoured helmet with a reinforced visor, thick torso protector plates, armoured pads for the shoulder, elbow and knee joints, plus ballistic gloves and combat boots atop a fire-resistant undersuit. Collectively, this offers dramatically improved resistance to injury. The centimetre-thick breastplate is capable of stopping a .50cal round at point blank range; it is the equivalent of walking around with three inches of steel strapped to your chest. Both the plating and the undersuit have also been impregnated with a dense network of ultrafine superconductor filaments, which absorb the heat from an energy projectile and dissipate it across the full surface of the armour, giving the soldier underneath a much improved chance of surviving the impact.&#10;&#10;None of this appears to have dramatically improved the mood of your soldiers. Indeed, I cannot recall a single smile from the miserable sods since the invasion began - it is almost as if they do not realise quite how difficult working in the laboratories can be. A little more gratitude would hardly go amiss.</desc>
-<cdesc></cdesc>
+<cdesc>&quot;狼&quot;战斗护甲作为豺战斗护甲的替代品，是使用性能卓越的外星合金制作的，在战斗中可以给你的士兵提供额外的保护。在工厂里生产每一件狼战斗护甲需要大量的钱和外星合金，但这可以显著的提高士兵的战斗力。&#10;&#10;狼护甲有以下几个部分组成：一个带有强化面具的装甲头盔，和厚的躯干保护器板材，以及肩部，肘部，膝关节装甲护具，和外面采用耐火面料制作的军靴及射击手套。同样，这显著的提高了抗伤害能力。几厘米厚的护胸甲能阻挡.50口径近距离射击;它相当于在胸部穿着3英寸厚的钢板的效果。面料和电镀外壳都布满了密集的超导体丝，这种材料可以吸收能量射弹的热量并通过整个护甲外壳散发，这能提高士兵在强大能量冲击情况下的存活机会。&#10;&#10;所有这些似乎都极大地提高了士兵的情绪。事实上,自从入侵开始，从悲惨草地里我都回忆不到一个微笑-就好像是他们意识不到实验室工作的困难。对我们多一点感激都会别扭</cdesc>
