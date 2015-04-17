@@ -32,7 +32,7 @@ lua pack.lua xenopedia
 其中 cname ctype cdesc 是对 name type desc 的翻译。对于没有翻译的文本，cname 和 cdesc 是空的。需要做的就是逐个翻译这些 txt 文件。
 ctype 我做了统一翻译，如果对译词有别的想法，欢迎提 Issue 。
 
-**注意** 统一翻译的只是<ctype> ，翻译<sdesc>的时候，不要忘记<cname>！！
+**注意** 统一翻译的只是ctype ，翻译sdesc的时候，不要忘记cname！！
 
 协作
 ======
