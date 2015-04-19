@@ -77,12 +77,12 @@
 * [ ] Researches.AlienSingularityGrenade.txt
 * [ ] Researches.AlienSniperPlasma.txt
 * [ ] Researches.AndronDisassembly.txt
-* [ ] Researches.AssaultShield.txt
-* [ ] Researches.BaseUpgrade.txt
+* [x] Researches.AssaultShield.txt
+* [x] Researches.BaseUpgrade.txt
 * [ ] Researches.CaesanAutopsy.txt
 * [ ] Researches.CaesanVivisection.txt
-* [ ] Researches.DirectionalThrusterArray.txt
-* [ ] Researches.ElectroshockGrenade.txt
+* [x] Researches.DirectionalThrusterArray.txt
+* [x] Researches.ElectroshockGrenade.txt
 * [ ] Researches.FusionExplosives.txt
 * [ ] Researches.FusionWarheads.txt
 * [ ] Researches.HarridanAutopsy.txt
