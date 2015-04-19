@@ -47,14 +47,14 @@
 * [x] Researches.Alenium.txt
 * [x] Researches.AleniumWarheads.txt
 * [x] Researches.AlienAlloyFabrication.txt
-* [ ] Researches.AlienAlloyHardening.txt
+* [x] Researches.AlienAlloyHardening.txt
 * [ ] Researches.AlienAlloyProduction.txt
-* [ ] Researches.AlienAlloys.txt
+* [x] Researches.AlienAlloys.txt
 * [ ] Researches.AlienAntigravityGenerator.txt
 * [ ] Researches.AlienAssaultPlasma.txt
 * [ ] Researches.AlienBaseFacilities.txt
 * [ ] Researches.AlienBattleRifle.txt
-* [ ] Researches.AlienBiology.txt
+* [x] Researches.AlienBiology.txt
 * [ ] Researches.AlienCommunicationArray.txt
 * [ ] Researches.AlienElectronics.txt
 * [ ] Researches.AlienFusionReactor.txt

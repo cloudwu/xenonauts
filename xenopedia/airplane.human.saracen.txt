@@ -1,7 +1,7 @@
 <index>airplane.human.saracen</index>
 <name>X-44 Saracen Interceptor</name>
-<cname></cname>
+<cname>X-44 撒拉逊人截击机</cname>
 <type>Xenonaut Aircraft</type>
 <ctype>Xenonaut 飞行器</ctype>
 <desc>The X-44 Saracen is an interceptor built specifically for dogfighting the most manuverable alien craft. It is fast, heavily armoured and extremely agile, employing dual cannons to rip apart its foes at close range.&#10;&#10;. Within it lies the mountings for the twin cannon hardpoints, the extensive avionics and the imposing E-77 Alenium Impulsion reactor that provides the vast reserves of power required to make a sixty-ton craft dance like a ballerina at twice the speed of sound.&#10;&#10;The resulting craft is an ugly, squat beast capable of destroying almost anything placed in front of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one.</desc>
-<cdesc></cdesc>
+<cdesc>X-44 “撒拉逊人” 是一款专为同那些最敏捷的外星飞行器近距缠斗而设计的截击机。它快速、重甲、异常灵活，装备有双机炮，能在近距离将敌人撕成碎片。&#10;&#10;机身内部有双机炮外挂点配套装置、扩展的航空电子设备以及一台能为六十吨重飞行器提供充足能源，使其在两倍音速下也能像芭蕾舞演员一样自由翻飞的E-77 Alenium Impulsion 反应堆。&#10;&#10;最终设计出的飞行器就是一头丑陋矮胖的怪兽，能够毁灭面前的一切事物——难怪我们的工程师会如此钟情于建造这种飞行器，因为他们的本性是如此相似。</cdesc>
