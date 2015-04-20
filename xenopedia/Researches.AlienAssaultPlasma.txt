@@ -1,7 +1,7 @@
 <index>Researches.AlienAssaultPlasma</index>
 <name>Alien Assault Plasma</name>
-<cname></cname>
+<cname>外星等离子霰弹枪</cname>
 <type>Alien Weapons</type>
 <ctype>外星武器</ctype>
 <desc>The alien Assault Plasma is a two-handed alien infantry weapon roughly twenty-eight inches in length and five kilograms in weight. Though it employs a different method of operation, it acts much like a shotgun in effect: it spits multiple &quot;pellets&quot; of deadly plasma at the target.&#10;&#10;These &quot;pellets&quot; are, of course, nothing of the sort. Each is an individual bolt of plasma fired from one of the weapon's three entirely separate barrels. The device employs a particularly large generation array, which allows all three of the barrels to simultaneously discharge a bolt of plasma that is almost as powerful as the bolt fired by the alien Plasma Rifle. This makes the weapon highly dangerous at short range: if all three shots strike the same target, it is unlikely to survive the experience.&#10;&#10;Thankfully, this weapon is inaccurate, has mediocre armour penetration and a very limited range - it does not appear to utilise the standard graviton emitter seen on other alien weapons at all. Tackle enemies wielding this weapon at distance, as it relies on proximity rather than precision.</desc>
-<cdesc></cdesc>
+<cdesc>外星等离子霰弹枪是一种双手持握的外星步兵武器，长约28英寸，重约5公斤。虽然原理不同，但是它的效果和普通霰弹枪类似：通过发射多个由等离子组成的&quot;弹丸&quot;对目标造成伤害。当然，这些&quot;弹丸&quot;和普通的弹丸可不一样，每一颗都是由这件武器的三个独立枪筒发射的等离子组成的。等离子霰弹枪中，装有一个非常大的等离子发生器阵列，这使得它的三个独立枪筒能够同时发射等离子弹丸。每一颗等离子弹丸的威力都和由外星等离子步枪发射的一样。等离子霰弹枪在近距离攻击时十分危险。如果三颗等离子弹丸都命中了目标，那么目标几乎不可能幸存。&#10;&#10;谢天谢地，这件武器的准确性不足，护甲穿透能力也一般，并且攻击距离十分有限 -- 它似乎没有像其他外星武器那样，装备有标准引力子发射器。远程消灭使用这种武器的敌人，因为这件武器要起作用依靠的是近距离而不是准确性。</cdesc>
