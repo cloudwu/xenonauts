@@ -51,7 +51,7 @@
 * [ ] Researches.AlienAlloyProduction.txt
 * [x] Researches.AlienAlloys.txt
 * [ ] Researches.AlienAntigravityGenerator.txt
-* [ ] Researches.AlienAssaultPlasma.txt
+* [x] Researches.AlienAssaultPlasma.txt
 * [ ] Researches.AlienBaseFacilities.txt
 * [ ] Researches.AlienBattleRifle.txt
 * [x] Researches.AlienBiology.txt
