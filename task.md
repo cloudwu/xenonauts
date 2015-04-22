@@ -83,12 +83,12 @@
 * [ ] Researches.CaesanVivisection.txt
 * [x] Researches.DirectionalThrusterArray.txt
 * [x] Researches.ElectroshockGrenade.txt
-* [ ] Researches.FusionExplosives.txt
-* [ ] Researches.FusionWarheads.txt
+* [x] Researches.FusionExplosives.txt
+* [x] Researches.FusionWarheads.txt
 * [ ] Researches.HarridanAutopsy.txt
 * [ ] Researches.HarridanVivisection.txt
 * [ ] Researches.HeavyDroneWreckage.txt
-* [ ] Researches.HunterMissiles.txt
+* [x] Researches.HunterMissiles.txt
 * [ ] Researches.HyperdriveDisruptor.txt
 * [ ] Researches.HypervelocityProjectiles.txt
 * [ ] Researches.JumpUnit.txt
