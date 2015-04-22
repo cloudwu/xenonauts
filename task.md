@@ -53,9 +53,9 @@
 * [x] Researches.AlienAntigravityGenerator.txt
 * [x] Researches.AlienAssaultPlasma.txt
 * [x] Researches.AlienBaseFacilities.txt
-* [ ] Researches.AlienBattleRifle.txt
+* [x] Researches.AlienBattleRifle.txt
 * [x] Researches.AlienBiology.txt
-* [ ] Researches.AlienCommunicationArray.txt
+* [x] Researches.AlienCommunicationArray.txt
 * [ ] Researches.AlienElectronics.txt
 * [ ] Researches.AlienFusionReactor.txt
 * [ ] Researches.AlienGrenade.txt
