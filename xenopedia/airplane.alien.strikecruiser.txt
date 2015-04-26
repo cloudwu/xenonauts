@@ -1,7 +1,7 @@
 <index>airplane.alien.strikecruiser</index>
 <name>Strike Cruiser UFO</name>
-<cname></cname>
+<cname>UFO战巡舰</cname>
 <type>UFOs</type>
 <ctype>ＵＦＯ舰队</ctype>
 <desc>The Strike Cruiser is a large ground-attack vessel. Though clearly a derivative of the standard Cruiser UFO design, it fulfils a role more akin to that of the Bomber.&#10;&#10;Despite its vast size we believe the Strike Cruiser is still a single-seater craft, the pilot interred somewhere in the forward area of the saucer. All non-essential systems have been stripped away and replaced with extra firepower, the biggest addition being the two enormous coilguns mounted on the front of the craft. A lattice of heatsinks connect each one to the &quot;wings&quot; of the craft, which themselves contain powerful long-range targeting scanners.&#10;&#10;These coilguns appear designed to attack static targets from great range and pose little threat to our aircraft, making the Strike Cruiser a weak combatant. Each projectile is highly explosive and capable of flattening a building in a single hit; given that the saucer section of each craft can carry at least thirty of them it is imperative that these UFOs are shot down before they inflict too much damage on the nations that fund us. Predictably, the explosive payload of the Strike Cruiser makes it highly unlikely a successful interception will leave much in the way of recoverable wreckage.</desc>
-<cdesc></cdesc>
+<cdesc>战巡舰属于大型对地飞船。尽管设计上衍生自标准的巡洋舰，但角色和轰炸机相近。&#10;&#10;尽管身形巨大，但我们依旧认为这是一艘单人飞船，飞行员就在飞碟前端的某个位置。所有的非必需设施都去掉了，取而代之的是更多的火力，那就是飞船前方的两只大型电浆枪。网状结构的散热器分别连接着飞船的&quot;两翼&quot;，那之中放置着强力的远距离传感器。&#10;&#10;高斯枪应该是用于对抗超远距离的静态物体的，对我们的飞船威胁很小，这样战巡舰会是一个很弱的空中敌手。由于这飞碟能承载至少三十颗能轻易将建筑夷为平地的高爆弹头，我们必须在它对我们的成员国造成太多伤害前将它击落。可以预见的是，战巡舰搭载的爆炸物让其在空中拦截后成为了不太可能被复原的目标。 </cdesc>
