@@ -56,7 +56,7 @@
 * [x] Researches.AlienBattleRifle.txt
 * [x] Researches.AlienBiology.txt
 * [x] Researches.AlienCommunicationArray.txt
-* [ ] Researches.AlienElectronics.txt
+* [x] Researches.AlienElectronics.txt
 * [ ] Researches.AlienFusionReactor.txt
 * [ ] Researches.AlienGrenade.txt
 * [ ] Researches.AlienHeavyPlasmaRifle.txt
