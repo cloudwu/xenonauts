@@ -71,7 +71,7 @@
 * [ ] Researches.AlienPlasmaRifle.txt
 * [ ] Researches.AlienPlasmaTechnology.txt
 * [ ] Researches.AlienPowerSource.txt
-* [ ] Researches.AlienReactor.txt
+* [x] Researches.AlienReactor.txt
 * [ ] Researches.AlienSensorArray.txt
 * [ ] Researches.AlienSingularityCore.txt
 * [ ] Researches.AlienSingularityGrenade.txt
