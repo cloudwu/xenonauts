@@ -1,7 +1,7 @@
 <index>Researches.HunterMissiles</index>
 <name>Hunter &quot;Viper&quot; Turret</name>
-<cname></cname>
+<cname>猎手侦查车&quot;蝰蛇&quot;炮塔</cname>
 <type>Xenonaut Vehicle Weapons</type>
 <ctype>Xenonaut 车载武器</ctype>
 <desc>The &quot;Viper&quot; rocket rack is an alternate turret option for the Hunter scout car, substantially increasing the vehicle's firepower by replacing the dual .30cal machineguns with eight high-explosive rockets.&#10;&#10;These rockets are repurposed air-to-air missiles that lack much of a fragmentation effect, but will still inflict heavy incendiary damage across a large area. Though best suited to demolishing structures, they should still make short work of our weaker alien foes.  However, there are two major disadvantages to this - firstly, the rockets are so large that the Hunter can only carry eight of them into battle.  Secondly, explosives are a poor way to obtain recoverable alien technology. It is unlikely that we will be able to recover anything of value from the corpses of any enemies killed by these rockets.&#10;&#10;Nevertheless, there are many occasions where the loss of a few artefacts would be preferable to the loss of one or more of our soldiers. If you wish to equip a Hunter with the Viper, the upgraded turrets have already been made available in the Garage.</desc>
-<cdesc></cdesc>
+<cdesc>&quot;蝰蛇&quot;火箭发射架是猎手侦察车的一个可选武器，基本上就是将载具武器由双联装的.30口径机枪替换为8枚高爆火箭。&#10;&#10;这些火箭最初被设计用于空对空作战，因此没有太多的破片杀伤性，但依然能在大范围内造成致命伤害。尽管它的最佳用途是破坏障碍物或摧毁建筑，但它用来屠杀较弱小的外星敌人时也依然有效。然而，它有两个主要缺陷 - 首先，火箭体积过大，因此猎手号只能携带8枚火箭进入战场；其次，将外星制品炸碎会让我们无从回收他们的科技，我们不太可能从一团被火箭炸烂的碎片和残肢中找到有用的东西。&#10;&#10;尽管如此，很多情况下我们宁愿放弃缴获完整的外星制品的机会，也不愿失去我们士兵的生命。如果你想让猎手号装备蝰蛇炮塔的话，那就去车库检查可供替换的武器吧。</cdesc>

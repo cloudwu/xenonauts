@@ -1,7 +1,7 @@
 <index>airplane.alien.lightscout</index>
 <name>Light Scout UFO</name>
-<cname></cname>
+<cname>UFO轻型侦察机</cname>
 <type>UFOs</type>
 <ctype>ＵＦＯ舰队</ctype>
 <desc>My team has finished preliminary studies on the recovered UFO hull, we have designated the &quot;Light Scout&quot;. It is very small compared to some of the orbital signals we have detected; barely more than a probe. &#10;&#10;It is approximately a dozen metres from nose to tail, comprising a &quot;saucer&quot; section and two &quot;wings&quot; filled with what we believe to be sensor equipment. Two small thrusters mounted on the back of the saucer provide propulsion. The craft does not appear to have a reactor of any kind, instead seeming to draw power from rechargeable capacitors in the wings. It is almost certainly not capable of independent operation, instead it would need to be launched from a &quot;home&quot; vessel at the start of each mission (and return there afterwards).&#10;&#10;It has poor combat performance for such an advanced vessel; it is no match for one of our Condor interceptors. The main weapon is an energy cannon mounted beneath the saucer, which has a relatively slow fire speed and a shorter range than our Sidewinder missiles. The armoured shell is remarkably strong and impressively heat-resistant given it is only a few millimetres thick, but is too thin to offer much protection against modern munitions. Enjoy the gentle introduction while it lasts, Commander - I doubt the larger ships will be such easy prey.</desc>
-<cdesc></cdesc>
+<cdesc>我的团队已经初步地对复原后的UFO船体进行了研究，并将其命名为&quot;轻型侦察机&quot;。它的轨道信号与我们侦测到的在强度上相距甚远；顶多比传感器要强一些。&#10;&#10;它从头到尾十来米，主体由&quot;飞碟&quot;和一双&quot;翅膀&quot;构成，我认为上头装满了传感器。飞碟后边的两个小型推进器提供推力。飞船似乎没有任何一种形式的反应堆，能量借由机翼的可充电电容器获得。这使得它没有独立行动的能力，每次任务开始时，发射都必须依靠&quot;母体&quot;飞船（之后还要返回那里）。&#10;&#10;这么先进的飞船战斗表现却很糟糕；它无法和我们的神鹰拦截机对抗。它的主武器是后部的能量炮，相对于我们的响尾蛇导弹，速度更慢、射程更短。尽管它的护甲只有几毫米厚，但是非常的坚固而且特别耐热，只是面对现代武器的火力，显得薄弱。指挥官，乘着这还还刚开始先高兴一下吧——我相信大些的飞船就不是那么容易对付了。</cdesc>

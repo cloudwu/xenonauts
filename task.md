@@ -50,13 +50,13 @@
 * [x] Researches.AlienAlloyHardening.txt
 * [ ] Researches.AlienAlloyProduction.txt
 * [x] Researches.AlienAlloys.txt
-* [ ] Researches.AlienAntigravityGenerator.txt
-* [ ] Researches.AlienAssaultPlasma.txt
-* [ ] Researches.AlienBaseFacilities.txt
-* [ ] Researches.AlienBattleRifle.txt
+* [x] Researches.AlienAntigravityGenerator.txt
+* [x] Researches.AlienAssaultPlasma.txt
+* [x] Researches.AlienBaseFacilities.txt
+* [x] Researches.AlienBattleRifle.txt
 * [x] Researches.AlienBiology.txt
-* [ ] Researches.AlienCommunicationArray.txt
-* [ ] Researches.AlienElectronics.txt
+* [x] Researches.AlienCommunicationArray.txt
+* [x] Researches.AlienElectronics.txt
 * [ ] Researches.AlienFusionReactor.txt
 * [ ] Researches.AlienGrenade.txt
 * [ ] Researches.AlienHeavyPlasmaRifle.txt
@@ -71,24 +71,24 @@
 * [ ] Researches.AlienPlasmaRifle.txt
 * [ ] Researches.AlienPlasmaTechnology.txt
 * [ ] Researches.AlienPowerSource.txt
-* [ ] Researches.AlienReactor.txt
+* [x] Researches.AlienReactor.txt
 * [ ] Researches.AlienSensorArray.txt
 * [ ] Researches.AlienSingularityCore.txt
 * [ ] Researches.AlienSingularityGrenade.txt
 * [ ] Researches.AlienSniperPlasma.txt
 * [ ] Researches.AndronDisassembly.txt
-* [ ] Researches.AssaultShield.txt
-* [ ] Researches.BaseUpgrade.txt
+* [x] Researches.AssaultShield.txt
+* [x] Researches.BaseUpgrade.txt
 * [ ] Researches.CaesanAutopsy.txt
 * [ ] Researches.CaesanVivisection.txt
-* [ ] Researches.DirectionalThrusterArray.txt
-* [ ] Researches.ElectroshockGrenade.txt
-* [ ] Researches.FusionExplosives.txt
-* [ ] Researches.FusionWarheads.txt
+* [x] Researches.DirectionalThrusterArray.txt
+* [x] Researches.ElectroshockGrenade.txt
+* [x] Researches.FusionExplosives.txt
+* [x] Researches.FusionWarheads.txt
 * [ ] Researches.HarridanAutopsy.txt
 * [ ] Researches.HarridanVivisection.txt
 * [ ] Researches.HeavyDroneWreckage.txt
-* [ ] Researches.HunterMissiles.txt
+* [x] Researches.HunterMissiles.txt
 * [ ] Researches.HyperdriveDisruptor.txt
 * [ ] Researches.HypervelocityProjectiles.txt
 * [ ] Researches.JumpUnit.txt

@@ -1,7 +1,7 @@
 <index>airplane.alien.scout</index>
 <name>Scout UFO</name>
-<cname></cname>
+<cname>UFO侦察机</cname>
 <type>UFOs</type>
 <ctype>ＵＦＯ舰队</ctype>
 <desc>The alien Scout is small craft with a larger crew than the Light Scout. Though still a scout craft, it is larger, better-armed and more dangerous than its predecessor.&#10;&#10;The design consists of two crew compartments, a sizeable semi-circular forward compartment that contains the ship's control systems and a circular bay at the rear of the vessel that houses the ship's power source. It has substantial armour plating around its key compartments, usually 8mm thick but rising to double that in some areas (perhaps suggesting the &quot;armour&quot; on the Light Scout was in fact little more than a heat shield). This makes it a much more formidable combatant than the Light Scout, particularly coupled with a plasma beam that has greater range and inflicts additional damage.&#10;&#10;The hull is dotted with an extensive network of sensors that feed data into crew compartment. These glowing &quot;eyes&quot; seem to track everything from airspeed to infra-red emissions and probably represent the method by which the craft gathers intelligence on our planet and species.&#10;</desc>
-<cdesc></cdesc>
+<cdesc>外星人的侦察机比轻型侦察机有更多的乘员。尽管仍是用于侦查的飞船，却比它的上一代更大、更坚硬且更危险。&#10;&#10;在构造上，它有两个乘员舱，一个相当大的前置半圆，里面是飞船的控制系统，飞船尾部还有一个圆形港湾，用于安置能源。船身在关键部位有大量的装甲，通常是8毫米厚，部分区域16毫米（也许是考虑到轻型侦察机的&quot;装甲&quot;只比热能屏障好那么一点）。这让它变成一个比轻型侦察机可怕的多的对手，尤其是它还有一对电浆光束炮，具备了更远的射程，能造成跟多的伤害。&#10;&#10;船体上分布了大量传感器网络，乘员舱通过它们接收数据。这些发光的&quot;眼睛&quot; 似乎能追踪从气流速度到红外线的一切事物，这也表明了那是这飞船用于搜集我们星球信息和物种文明的手段。&#10;</cdesc>

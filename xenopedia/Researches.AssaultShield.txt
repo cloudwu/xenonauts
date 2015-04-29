@@ -1,7 +1,7 @@
 <index>Researches.AssaultShield</index>
 <name>Assault Shield</name>
-<cname></cname>
+<cname>突击盾牌</cname>
 <type>Xenonaut Weapons</type>
 <ctype>Xenonaut 武器</ctype>
 <desc>The Assault Shield is a direct upgrade for the Combat Shield, employing our new knowledge of hardened alien alloys to create a tactical shield with much improved durability. It functions in the same way as its predecessor - soaking up most of the incoming damage from targets in front of the user.&#10;&#10;The vastly improved ballistic and thermal resistance of hardened alien alloys make them much more effective at stopping incoming damage. As fabricating a rectangle is not a difficult task, the main point of debate was over whether we should design a lighter and less cumbersome shield or leave the weight unchanged and greatly increase protection. Discussion with your men revealed they had an overwhelming preference for the latter, and given the brief life expectancy of your breaching soldiers I was inclined to agree with them. The Assault Shield should be able to withstand several hits from most alien plasma weapons before failing, hopefully enough to get the user through a mission without serious injury. &#10;&#10;The Assault Shield does, of course, fill one of the soldier's hands. Unable to wield two-handed weapons, they will be forced to use a pistol. You should also be aware that our shields do not provide complete protection; there is always a small chance that a lucky shot will hit an exposed body-part.</desc>
-<cdesc></cdesc>
+<cdesc>突击盾牌是战斗盾牌的直接升级，结合了我们新掌握的外星合金知识所制造出的耐久性更佳的战术防爆盾。它的功能和前辈一样，尽可能地吸收从使用者的前方射来的火力并降低伤害。&#10;&#10;通过硬化的外星合金制成的动能和热能保护层能比旧型号更有效地降低伤害。铸造一片矩形的外星合金不是件困难的事情，设计时争议最大的地方是让新型号在保证强度不变的情况下更轻更便于携带，还是在保持重量不变的情况下提供更多的保护。我征询了你的人的意见，他们几乎是一边倒地支持后者，而且出于对你那些士兵短暂的战场平均存活时间的同情我也更倾向于赞同他们的观点。突击盾牌应当比旧型号在损坏前承受更多的伤害，尽量让使用者在任务结束前不受重伤。 &#10;&#10;不用说，突击盾牌和旧型号一样需要士兵用一整只手持握，这意味着他们无法使用步枪等双手武器，而只能被迫使用手枪来还击。另外你应该时刻记得新的盾牌依然无法提供全方位的保护，总会有那么几个外星人走了狗屎运打中了士兵暴露在盾牌外的部位.</cdesc>
