@@ -25,7 +25,7 @@
 * [x] armour.basic.txt
 * [ ] armour.buzzard.txt
 * [ ] armour.jackal.txt
-* [ ] armour.predator.txt
+* [x] armour.predator.txt
 * [ ] armour.sentinel.txt
 * [ ] armour.wolf.txt
 * [x] AV.AUTOCANNON.txt
