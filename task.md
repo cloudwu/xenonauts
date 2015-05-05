@@ -42,13 +42,13 @@
 * [x] MedicalCenter.txt
 * [x] RadarArray.txt
 * [ ] Researches.AdvancedMedpack.txt
-* [ ] Researches.AleniumEnrichment.txt
+* [ ] ~~Researches.AleniumEnrichment.txt~~
 * [x] Researches.AleniumExplosives.txt
 * [x] Researches.Alenium.txt
 * [x] Researches.AleniumWarheads.txt
 * [x] Researches.AlienAlloyFabrication.txt
 * [x] Researches.AlienAlloyHardening.txt
-* [ ] Researches.AlienAlloyProduction.txt
+* [ ] ~~Researches.AlienAlloyProduction.txt~~
 * [x] Researches.AlienAlloys.txt
 * [x] Researches.AlienAntigravityGenerator.txt
 * [x] Researches.AlienAssaultPlasma.txt
@@ -63,7 +63,7 @@
 * [ ] Researches.AlienHyperdrive.txt
 * [ ] Researches.AlienInterrogation.txt
 * [ ] Researches.AlienInvasion.txt
-* [ ] Researches.AlienKineticShield.txt
+* [ ] ~~Researches.AlienKineticShield.txt~~
 * [ ] Researches.AlienLeaderInterrogation.txt
 * [ ] Researches.AlienOfficerInterrogation.txt
 * [ ] Researches.AlienPlasmaCannon.txt
@@ -74,7 +74,7 @@
 * [x] Researches.AlienReactor.txt
 * [ ] Researches.AlienSensorArray.txt
 * [ ] Researches.AlienSingularityCore.txt
-* [ ] Researches.AlienSingularityGrenade.txt
+* [ ] ~~Researches.AlienSingularityGrenade.txt~~
 * [ ] Researches.AlienSniperPlasma.txt
 * [ ] Researches.AndronDisassembly.txt
 * [x] Researches.AssaultShield.txt
@@ -90,7 +90,7 @@
 * [ ] Researches.HeavyDroneWreckage.txt
 * [x] Researches.HunterMissiles.txt
 * [ ] Researches.HyperdriveDisruptor.txt
-* [ ] Researches.HypervelocityProjectiles.txt
+* [ ] ~~Researches.HypervelocityProjectiles.txt~~
 * [ ] Researches.JumpUnit.txt
 * [ ] Researches.LaserWeaponry.txt
 * [ ] Researches.LIDARArray.txt
@@ -100,10 +100,10 @@
 * [ ] Researches.MediumDroneWreckage.txt
 * [ ] Researches.OperationEndgame.txt
 * [ ] Researches.ParticleBeam.txt
-* [ ] Researches.ParticleCannon.txt
+* [ ] ~~Researches.ParticleCannon.txt~~
 * [ ] Researches.PlasmaBolt.txt
 * [ ] Researches.PlasmaExplosives.txt
-* [ ] Researches.PlasmaGrenade.txt
+* [ ] ~~Researches.PlasmaGrenade.txt~~
 * [ ] Researches.PlasmaWarheads.txt
 * [ ] Researches.PlasmaWeaponry.txt
 * [ ] Researches.PraetorAutopsy.txt
