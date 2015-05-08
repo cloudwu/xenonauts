@@ -1,7 +1,7 @@
 <index>Researches.AlienHeavyPlasmaRifle</index>
 <name>Alien Heavy Plasma</name>
-<cname></cname>
+<cname>外星重型等离子步枪</cname>
 <type>Alien Weapons</type>
 <ctype>外星武器</ctype>
 <desc>The alien Heavy Plasma is thirty-five inches in length and nearly five kilograms in weight. It inflicts no more damage than the standard alien Plasma Rifle, but has far better armour penetration. This comes at the cost of reduced range and the apparent loss of burst-fire capability.&#10;&#10;The main difference in construction between this weapon and the alien Plasma Rifle lies in the barrel. The Heavy Plasma has a stubbier, wide barrel that contains a plasma generation chamber twice the normal size but an electromagnetic coil only half the usual length. This makes the plasma projectile significantly more energetic (and more penetrative) than the equivalent from the Plasma Rifle, but also less stable. It begins to break apart almost immediately, giving it approximately half the operational range of an alien Plasma Rifle.&#10;&#10;However, it is a worringly effective weapon. Each shot is sufficiently powerful that a soldier wearing Jackal armour may as well be wearing nothing at all, which also makes it capable of destroying our Hunter scout car in just a few shots. Try to fight aliens equipped with this weapon at long range where possible.</desc>
-<cdesc></cdesc>
+<cdesc>外星重型等离子步枪长约35英寸，重约5公斤。虽然它的威力和普通外星等离子步枪不相上下，但是却具有强的多的护甲穿透力，这是以射程和连发能力的下降为代价的。&#10;&#10;重型等离子步枪和普通等离子步枪在构造上的主要区别在于其枪筒。重型等离子步枪的枪筒粗而短，具有一个比普通体积大两倍的等离子生成腔，但其电磁线圈却只有普通的一半长。这会使得从重型等离子步枪中发射出的等离子体的能量更加充足（从而导致穿透力增强），但其稳定性有所下降。几乎在发射的同时，等离子体便会开始解体，这导致重型等离子步枪的射程下降为原有的一半。&#10;&#10;然而，重型等离子步枪仍然是一个让人头痛的武器。重型等离子步枪卓越的护甲穿透力，使得我们的“胡狼”战斗护甲变得毫无用处。而且它也能够仅用几发子弹就摧毁我们的“猎犬”侦察车。请尽可能远距离消灭装备有这种武器的敌人。</cdesc>
