@@ -59,7 +59,7 @@
 * [x] Researches.AlienElectronics.txt
 * [x] Researches.AlienFusionReactor.txt
 * [x] Researches.AlienGrenade.txt
-* [ ] Researches.AlienHeavyPlasmaRifle.txt
+* [x] Researches.AlienHeavyPlasmaRifle.txt
 * [ ] Researches.AlienHyperdrive.txt
 * [ ] Researches.AlienInterrogation.txt
 * [ ] Researches.AlienInvasion.txt
