@@ -1,7 +1,7 @@
 <index>VV.MACHINEGUN</index>
 <name>.30cal Machinegun</name>
-<cname></cname>
+<cname>.30口径 机关枪<’cname>
 <type>Xenonaut Vehicle Weapons</type>
 <ctype>Xenonaut 车载武器</ctype>
 <desc>The dual .30cal machineguns </desc>
-<cdesc></cdesc>
+<cdesc>双重火力.30口径机关枪 /cdesc>
