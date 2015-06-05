@@ -1,7 +1,7 @@
 <index>Researches.AlienPlasmaRifle</index>
 <name>Alien Plasma Rifle</name>
-<cname></cname>
+<cname>外星等离子步枪</cname>
 <type>Alien Weapons</type>
 <ctype>外星武器</ctype>
 <desc>The alien Plasma Rifle is a two-handed alien infantry weapon approximately thirty inches in length and three kilograms in weight. It is a vastly more capable combat weapon than the alien Plasma Pistol, generating a plasma bolt that is significantly more powerful and cohesive than its smaller cousin. &#10;&#10;Without the space constraints of the Plasma Pistol, the aliens have mounted a more substantial generation array inside the weapon's barrel. This gives it a similar operational range to most ballistic assault rifles, but far higher damage and armour penetration potential. Laboratory tests suggest Jackal combat armour may do just enough to allow the wearer to survive a direct hit, but unarmoured troops would likely be killed instantly. Indeed, we believe this weapon is even a credible threat to our Hunter armoured cars.&#10;&#10;It would appear that the versatility of the alien Plasma Rifle makes it the default armament for alien combatants. It is powerful, light, accurate and capable of burst fire - in short, vastly superior to anything we possess. </desc>
-<cdesc></cdesc>
+<cdesc>外星等离子步枪是一种单兵双手武器，长约30英寸，重约3公斤。与外星等离子手枪相比，它是一种更适合于战斗的武器。与它的小表弟相比，外星等离子步枪能够发生更具威力和致密的等离子子弹。&#10;&#10;由于没有等离子手枪的体积限制，外星人在等离子步枪的枪管中装置了更大型的等离子发生器阵列。这使得等离子步枪具有和一般突击步枪相近的射程，但杀伤力和护甲穿透能力却大大增加。实验室中的测试表明，在直接命中的条件下，胡狼战斗护甲仅仅能刚好保护士兵不会马上丧命，而没有护甲保护的士兵极可能立刻死亡。事实上，我们相信等离子步枪对猎手装甲车都构成了威胁。&#10;&#10;显而易见，等离子步枪的高适用性，使其成为了外星战斗部队的标准装备。它威力大、重量轻、准确性高，并适合点射 - 简而言之，等离子步枪比我们的武器要先进的多。</cdesc>
