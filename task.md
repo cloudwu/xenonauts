@@ -65,7 +65,7 @@
 * [ ] Researches.AlienInvasion.txt
 * [ ] ~~Researches.AlienKineticShield.txt~~
 * [ ] Researches.AlienLeaderInterrogation.txt
-* [ ] Researches.AlienOfficerInterrogation.txt
+* [x] Researches.AlienOfficerInterrogation.txt
 * [ ] Researches.AlienPlasmaCannon.txt
 * [ ] Researches.AlienPlasmaPistol.txt
 * [ ] Researches.AlienPlasmaRifle.txt
