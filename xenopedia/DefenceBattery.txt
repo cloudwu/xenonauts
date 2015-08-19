@@ -1,7 +1,7 @@
 ﻿<index>DefenceBattery</index>
 <name>Defence Battery</name>
-<cname>电堡</cname>
+<cname>防卫炮台</cname>
 <type>Base Structures</type>
 <ctype>基地建筑</ctype>
 <desc>The Defence Battery is a point-defence structure that provides your base with protection against UFOs. In the event that your base is attacked by enemy forces, your defence batteries will each take a shot at the attacking craft with a 50% hit chance before the ground assault begins. &#10;&#10;Several defence batteries may be able to destroy an attacking UFO before it lands, averting the attack completely - but inflicting any damage on the UFO at all will reduce the size of the alien ground forces appropriately (to a minimum of 50%). These batteries upgrade automatically as you research more advanced weapon technology, so will not become obsolete over time.</desc>
-<cdesc>电堡可以为你的基地提供保护，免受UFO的攻击。每当有敌人入侵基地时，你的每个电堡都有50%的几率击中敌机。 &#10;&#10;当有几个电堡的时候，就有很大几率在UFO登陆前将其击落，从而完全避免攻击——但是对UFO造成的伤害将会相应地降低外星人地面部队的规模（最小到50%）。当你研究了更先进的武器时，电堡也会自动升级，所以它们永远不会过时。</cdesc>
+<cdesc>防卫炮台可以为你的基地提供保护，免受UFO的攻击。每当有敌人入侵基地时，你的每个炮台都有50%的几率击中敌机。 &#10;&#10;当有几个炮台的时候，有很大几率在UFO着陆前将其击落，从而完全避免攻击——另外，对UFO造成的伤害将会相应地降低外星人地面部队的规模（最小到50%）。当你研究了更先进的武器时，炮台也会自动升级，所以它们永远不会过时。</cdesc>
